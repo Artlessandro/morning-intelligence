@@ -12,6 +12,11 @@
       "source": "Hacker News"
     },
     {
+      "title": "\"I applied to be pope\"",
+      "url": "https://www.thestandard.com.hk/world/article/331886/I-applied-to-be-pope-Losing-grip-on-reality-while-using-ChatGPT",
+      "source": "Hacker News"
+    },
+    {
       "title": "Show HN: I made a screen recording app to make demos like an Apple commercial",
       "url": "https://shotglass.app",
       "source": "Hacker News"
@@ -19,11 +24,6 @@
     {
       "title": "Hysteria: A QUIC-Based Proxy Designed to Resist Censorship",
       "url": "https://github.com/apernet/hysteria",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Alien",
-      "url": "https://typesetinthefuture.com/2014/12/01/alien/",
       "source": "Hacker News"
     }
   ]
