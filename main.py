@@ -123,6 +123,54 @@ def fetch_newsapi(query: str, page_size: int) -> list[dict]:
     return stories
 
 
+FX_URL = "https://open.er-api.com/v6/latest/USD"
+
+
+def fetch_fx_rates() -> dict[str, float]:
+    """Return IDR equivalents for USD, GBP, EUR. Returns {} on failure."""
+    try:
+        r = requests.get(FX_URL, timeout=10)
+        r.raise_for_status()
+        data = r.json()
+    except (requests.RequestException, ValueError) as exc:
+        print(f"  FX fetch failed: {exc}", file=sys.stderr)
+        return {}
+    rates = data.get("rates", {})
+    usd_to_idr = rates.get("IDR")
+    usd_to_gbp = rates.get("GBP")
+    usd_to_eur = rates.get("EUR")
+    if not (usd_to_idr and usd_to_gbp and usd_to_eur):
+        return {}
+    return {
+        "USD": float(usd_to_idr),
+        "GBP": float(usd_to_idr) / float(usd_to_gbp),
+        "EUR": float(usd_to_idr) / float(usd_to_eur),
+    }
+
+
+def render_fx_section(fx: dict[str, float]) -> str:
+    if not fx:
+        return ""
+    return (
+        "<h2>Currency check</h2>"
+        "<ul>"
+        f"<li><strong>1 USD</strong> = Rp {fx['USD']:,.0f}</li>"
+        f"<li><strong>1 GBP</strong> = Rp {fx['GBP']:,.0f}</li>"
+        f"<li><strong>1 EUR</strong> = Rp {fx['EUR']:,.0f}</li>"
+        "</ul>"
+    )
+
+
+def inject_after_market_context(html: str, fx_html: str) -> str:
+    """Insert the FX block immediately before the 'Design pulse' heading."""
+    if not fx_html:
+        return html
+    marker = "<h2>Design pulse</h2>"
+    if marker in html:
+        return html.replace(marker, fx_html + marker, 1)
+    return html + fx_html
+
+
 def dedupe_by_url(buckets: list[list[dict]]) -> None:
     """Remove URLs that appear in earlier buckets from later ones, in place."""
     seen: set[str] = set()
@@ -191,43 +239,52 @@ def build_prompt(
         )
 
     section_specs = [
-        "<h2>Signal of the day</h2>: one paragraph on the single biggest story from "
-        "the GENERAL stories below. Explain what happened and why it specifically "
-        "matters to product builders and design studio founders. Hyperlink the "
-        "company or product name to its source URL.",
-        "<h2>Pattern emerging</h2>: one paragraph naming a recurring theme across "
-        "3 or more stories today, from any bucket. Make it a take, not a summary. "
-        "Hyperlink at least two supporting stories inline.",
+        "<h2>Signal of the day</h2>: one short paragraph (2 to 3 sentences, under "
+        "60 words total) on the single biggest story from the GENERAL stories below. "
+        "Explain what happened and why it specifically matters to product builders "
+        "and design studio founders. Hyperlink the company or product name to its "
+        "source URL.",
+        "<h2>Pattern emerging</h2>: a <ul> with EXACTLY 3 <li> items. Each <li> "
+        "names one recurring theme that shows up in 2 or more of today's stories. "
+        "Each bullet is ONE sentence under 25 words and hyperlinks at least one "
+        "supporting story.",
         yesterday_spec,
         "<h2>Three problems worth solving</h2>: a <ul> with three <li> items. Each "
         "is real friction or a complaint surfaced in today's stories, framed as an "
-        "opportunity. Each bullet must hyperlink the originating story.",
+        "opportunity. Each bullet is ONE sentence under 25 words and hyperlinks the "
+        "originating story.",
         "<h2>Where money is moving</h2>: a <ul> with 3 to 4 tight bullets on funding "
         "rounds, valuations, acquisitions, or categories gaining capital. Prefer "
-        "items from the FUNDING bucket. Every bullet hyperlinks the source.",
+        "items from the FUNDING bucket. Each bullet is ONE sentence under 20 words "
+        "and hyperlinks the source.",
         "<h2>Market context</h2>: a <ul> with 2 short bullets framing today against "
         "the macro lens, using the MACRO bucket: rates, IPOs, big-cap earnings, "
-        "layoffs, or sector rotation that affects builders. Every bullet hyperlinks "
-        "the source.",
+        "layoffs, or sector rotation that affects builders. Each bullet is ONE "
+        "sentence under 20 words and hyperlinks the source.",
         "<h2>Design pulse</h2>: a <ul> with 2 bullets on the design industry: tools, "
         "agencies, typography, design system shifts, or notable launches. Prefer "
-        "items from the DESIGN bucket. Every bullet hyperlinks the source.",
+        "items from the DESIGN bucket; if the DESIGN bucket is thin, draw the most "
+        "design-adjacent items from GENERAL. Each bullet is ONE sentence under 20 "
+        "words and hyperlinks the source. NEVER leave this empty.",
         "<h2>One build idea</h2>: a single concrete product or service inspired by "
-        "today's signals. Include what it is, who would pay for it, and roughly what "
-        "they would pay. Hyperlink the story or stories that inspired it.",
+        "today's signals, under 70 words total. Include what it is, who would pay "
+        "for it, and roughly what they would pay. Hyperlink the story or stories "
+        "that inspired it.",
         "<h2>People worth reaching this week</h2>: a <ul> with 3 to 6 <li> items, "
-        "each a real named person mentioned in today's stories: a founder who raised, "
-        "an exec who moved roles, a builder who shipped, an investor leading a round. "
-        "For each item, use EXACTLY this format:\n"
-        "<li><strong>Full Name</strong>, role at Company. One short sentence on why "
-        "they are worth reaching, tied to the reader's design studio and product "
-        "work. <a href=\"https://www.linkedin.com/search/results/people/?keywords=NAME%20COMPANY\">Find on LinkedIn</a> "
+        "each a real named person from today's stories ACROSS ALL BUCKETS (general, "
+        "funding, design, macro). Founders, executives moving roles, shipping "
+        "builders, investors leading rounds, journalists with the beat. The FUNDING "
+        "bucket almost always names founders and investors, mine it hard. You MUST "
+        "produce at least 3 entries; dig deeper if needed. Use EXACTLY this format "
+        "for each item:\n"
+        "<li><strong>Full Name</strong>, role at Company. One short sentence (under "
+        "25 words) on why they are worth reaching, tied to the reader's design "
+        "studio and product work. <a href=\"https://www.linkedin.com/search/results/people/?keywords=NAME%20COMPANY\">Find on LinkedIn</a> "
         "&middot; <a href=\"SOURCE_URL\">Source</a></li>\n"
         "Build the LinkedIn URL by URL-encoding the person's full name plus their "
-        "company, joining with %20 (e.g. 'Jane%20Doe%20Acme%20AI'). Only include "
-        "people who are actually named in the story title or description. Never "
-        "invent a name. If fewer than 3 people are named today, output only as many "
-        "as exist, with one final <li> reading 'Light day for named individuals.'",
+        "company, joining tokens with %20 (e.g. 'Jane%20Doe%20Acme%20AI'). Only "
+        "include people actually named in the story title or description. Never "
+        "invent a name.",
         "<h2>One sentence to carry</h2>: a sharp, thought-provoking single sentence "
         "or question for the day. Wrap it in a <blockquote>.",
     ]
@@ -273,8 +330,13 @@ def build_prompt(
         "multiple distinct points into one long <p>. Short paragraphs read better.\n"
         "- Write in confident, plain English. Avoid hype words like 'revolutionary' "
         "or 'game-changer'.\n"
-        "- Keep each section tight. The whole brief should be readable in under "
-        "2 minutes.\n"
+        "- Keep each section tight. The reader skims, so every bullet must be ONE "
+        "sentence and paragraphs must stay under 60 words. The whole brief should "
+        "be readable in under 2 minutes.\n"
+        "- NEVER skip a section, leave a section empty, or write 'no items today', "
+        "'light day for...', 'nothing to report', or any similar placeholder. Every "
+        "section MUST contain real, substantive content drawn from the buckets "
+        "above. If a primary bucket is thin, pull from any other bucket to fill it.\n"
         "- Only use stories from the buckets above. Do not invent facts, people, "
         "or sources.\n"
     )
@@ -458,6 +520,13 @@ def main() -> int:
     else:
         print("  no yesterday state, skipping continuity section")
 
+    print("Fetching FX rates...")
+    fx = fetch_fx_rates()
+    if fx:
+        print(f"  1 USD = Rp {fx['USD']:,.0f} | 1 GBP = Rp {fx['GBP']:,.0f} | 1 EUR = Rp {fx['EUR']:,.0f}")
+    else:
+        print("  FX unavailable, currency section will be omitted")
+
     total = len(general) + len(funding) + len(design) + len(macro)
     print(f"Sending {total} stories to Claude ({CLAUDE_MODEL})...")
     prompt = build_prompt(general, funding, design, macro, yesterday)
@@ -465,6 +534,7 @@ def main() -> int:
 
     body, keywords, signal_index = extract_markers(body)
     body = clean_dashes(body)
+    body = inject_after_market_context(body, render_fx_section(fx))
 
     story_index = build_story_index(general, funding, design, macro)
     hero_url, hero_alt = pick_hero(keywords, signal_index, story_index)
