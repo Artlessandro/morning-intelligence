@@ -6,6 +6,9 @@ on:
     - cron: "0 2 * * *"
   workflow_dispatch:  # lets you trigger a manual run from the Actions tab
 
+permissions:
+  contents: write  # required to commit state/last_brief.json back to the repo
+
 jobs:
   brief:
     runs-on: ubuntu-latest
@@ -31,3 +34,15 @@ jobs:
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
         run: python main.py
+
+      - name: Commit state file
+        run: |
+          git config user.name "morning-intelligence-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add state/last_brief.json || exit 0
+          if git diff --cached --quiet; then
+            echo "No state changes to commit."
+          else
+            git commit -m "chore(state): update last_brief.json [skip ci]"
+            git push
+          fi
