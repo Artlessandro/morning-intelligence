@@ -1,29 +1,29 @@
 {
-  "date": "2026-05-13",
+  "date": "2026-05-14",
   "top_stories": [
     {
-      "title": "European governments: 3.000 tracking sites, 1.000 phpMyAdmins, and 99% poorly",
-      "url": "https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/",
+      "title": "Claude for Small Business",
+      "url": "https://www.anthropic.com/news/claude-for-small-business",
       "source": "Hacker News"
     },
     {
-      "title": "AluminiumOS, by Google: Android Reimagined for the Desktop",
-      "url": "https://aluminium-os.com/",
+      "title": "Microsoft BitLocker – YellowKey zero-day exploit",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor",
       "source": "Hacker News"
     },
     {
-      "title": "\"I applied to be pope\"",
-      "url": "https://www.thestandard.com.hk/world/article/331886/I-applied-to-be-pope-Losing-grip-on-reality-while-using-ChatGPT",
+      "title": "Arena AI Model ELO History",
+      "url": "https://mayerwin.github.io/AI-Arena-History/",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: I made a screen recording app to make demos like an Apple commercial",
-      "url": "https://shotglass.app",
+      "title": "LinkedIn planning to lay off 5% of staff",
+      "url": "https://www.reuters.com/business/world-at-work/linkedin-is-planning-lay-off-5-staff-latest-tech-sector-cuts-source-says-2026-05-13/",
       "source": "Hacker News"
     },
     {
-      "title": "Hysteria: A QUIC-Based Proxy Designed to Resist Censorship",
-      "url": "https://github.com/apernet/hysteria",
+      "title": "ICE may be at World Cup matches in U.S.",
+      "url": "https://www.nbcnews.com/sports/soccer/ice-may-world-cup-matches-us-rcna344797",
       "source": "Hacker News"
     }
   ]
