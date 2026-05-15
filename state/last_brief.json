@@ -1,29 +1,29 @@
 {
-  "date": "2026-05-14",
+  "date": "2026-05-15",
   "top_stories": [
     {
-      "title": "Claude for Small Business",
-      "url": "https://www.anthropic.com/news/claude-for-small-business",
+      "title": "Mullvad exit IPs are surprisingly identifying",
+      "url": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
       "source": "Hacker News"
     },
     {
-      "title": "Microsoft BitLocker – YellowKey zero-day exploit",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor",
+      "title": "How Claude Code works in large codebases",
+      "url": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
       "source": "Hacker News"
     },
     {
-      "title": "Arena AI Model ELO History",
-      "url": "https://mayerwin.github.io/AI-Arena-History/",
+      "title": "Details of the Daring Airdrop at Tristan Da Cunha",
+      "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
       "source": "Hacker News"
     },
     {
-      "title": "LinkedIn planning to lay off 5% of staff",
-      "url": "https://www.reuters.com/business/world-at-work/linkedin-is-planning-lay-off-5-staff-latest-tech-sector-cuts-source-says-2026-05-13/",
+      "title": "reCAPTCHA Mobile Verification Is Bringing the Play Integrity API to Desktops",
+      "url": "https://discuss.grapheneos.org/d/35428-recaptcha-mobile-verification-is-bringing-the-play-integrity-api-to-desktops",
       "source": "Hacker News"
     },
     {
-      "title": "ICE may be at World Cup matches in U.S.",
-      "url": "https://www.nbcnews.com/sports/soccer/ice-may-world-cup-matches-us-rcna344797",
+      "title": "Musk accused of 'selective amnesia,' Altman of lying as OpenAI trial nears end",
+      "url": "https://www.reuters.com/sustainability/society-equity/elon-musks-court-battle-against-openai-enters-homestretch-2026-05-14/",
       "source": "Hacker News"
     }
   ]
