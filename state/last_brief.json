@@ -1,29 +1,29 @@
 {
-  "date": "2026-05-16",
+  "date": "2026-05-17",
   "top_stories": [
     {
-      "title": "Senior NIAID Official Indicted for Concealing Records During Covid Pandemic",
-      "url": "https://www.justice.gov/opa/pr/former-senior-niaid-official-indicted-concealing-federal-records-during-covid-19-pandemic-0",
+      "title": "Hosting a website on an 8-bit microcontroller",
+      "url": "https://maurycyz.com/projects/mcusite/",
       "source": "Hacker News"
     },
     {
-      "title": "Major VPN provider says it could leave Canada over lawful access bill",
-      "url": "https://www.ctvnews.ca/politics/article/major-vpn-provider-says-it-could-leave-canada-over-lawful-access-bill/",
+      "title": "Tesla Solar Roof is on life support as it pivot to panels",
+      "url": "https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/",
       "source": "Hacker News"
     },
     {
-      "title": "California governor candidate under investigation over payments to influencers",
-      "url": "https://www.washingtonpost.com/technology/2026/05/15/tom-steyers-influencer-campaign-triggers-california-investigation-over-undisclosed-posts/",
+      "title": "Grafana Labs internal source code accessed",
+      "url": "https://twitter.com/grafana/status/2055827123236171827",
       "source": "Hacker News"
     },
     {
-      "title": "Why 'Smart' Products Have Started to Look Like the Dumb Choice",
-      "url": "https://www.nytimes.com/2026/05/14/magazine/dumb-phones-tvs-retronym-smart-tech.html",
+      "title": "Bear spray is exploding in the trash near Yellowstone National Park",
+      "url": "https://www.sfgate.com/national-parks/article/exploding-bear-spray-yellowstone-22244713.php",
       "source": "Hacker News"
     },
     {
-      "title": "Terence Tao: My recollections on the early history of compressed sensing",
-      "url": "https://mathstodon.xyz/@tao/114967650999562435",
+      "title": "Fly.io is getting rid of GPU-accelerated machines",
+      "url": "https://fly.io/docs/gpus/",
       "source": "Hacker News"
     }
   ]
