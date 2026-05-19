@@ -1,29 +1,29 @@
 {
-  "date": "2026-05-17",
+  "date": "2026-05-19",
   "top_stories": [
     {
-      "title": "Hosting a website on an 8-bit microcontroller",
-      "url": "https://maurycyz.com/projects/mcusite/",
+      "title": "Peter Salus has died",
+      "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html",
       "source": "Hacker News"
     },
     {
-      "title": "Tesla Solar Roof is on life support as it pivot to panels",
-      "url": "https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/",
+      "title": "As of April 2026: Iran has destroyed 42 U.S. Military Aircraft in Op: Epic Fury",
+      "url": "https://nationalsecurityjournal.org/iran-destroyed-42-u-s-military-aircraft-in-operation-epic-fury-lessons-must-be-learned/",
       "source": "Hacker News"
     },
     {
-      "title": "Grafana Labs internal source code accessed",
-      "url": "https://twitter.com/grafana/status/2055827123236171827",
+      "title": "Apple Silicon costs less than OpenRouter",
+      "url": "https://twitter.com/rohan_sood15/status/2056585919805714777",
       "source": "Hacker News"
     },
     {
-      "title": "Bear spray is exploding in the trash near Yellowstone National Park",
-      "url": "https://www.sfgate.com/national-parks/article/exploding-bear-spray-yellowstone-22244713.php",
+      "title": "Codex-maxxing",
+      "url": "https://jxnl.co/writing/2026/05/10/codex-maxxing/",
       "source": "Hacker News"
     },
     {
-      "title": "Fly.io is getting rid of GPU-accelerated machines",
-      "url": "https://fly.io/docs/gpus/",
+      "title": "PyTorch Landscape",
+      "url": "https://pytorch.landscape2.io",
       "source": "Hacker News"
     }
   ]
