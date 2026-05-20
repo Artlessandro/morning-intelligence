@@ -1,29 +1,29 @@
 {
-  "date": "2026-05-19",
+  "date": "2026-05-20",
   "top_stories": [
     {
-      "title": "Peter Salus has died",
-      "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html",
+      "title": "GitHub Compromised",
+      "url": "https://twitter.com/i/status/2056949168208552080",
       "source": "Hacker News"
     },
     {
-      "title": "As of April 2026: Iran has destroyed 42 U.S. Military Aircraft in Op: Epic Fury",
-      "url": "https://nationalsecurityjournal.org/iran-destroyed-42-u-s-military-aircraft-in-operation-epic-fury-lessons-must-be-learned/",
+      "title": "India's hottest district shuts at 10 am as mercury breaches 48 C mark",
+      "url": "https://www.hindustantimes.com/india-news/indias-hottest-district-banda-shuts-at-10-am-as-mercury-breaches-48-degrees-celsius-mark-101779240653594.html",
       "source": "Hacker News"
     },
     {
-      "title": "Apple Silicon costs less than OpenRouter",
-      "url": "https://twitter.com/rohan_sood15/status/2056585919805714777",
+      "title": "Evals will break",
+      "url": "https://wanglun1996.github.io/blog/your-evals-will-break.html",
       "source": "Hacker News"
     },
     {
-      "title": "Codex-maxxing",
-      "url": "https://jxnl.co/writing/2026/05/10/codex-maxxing/",
+      "title": "Even by Trumpian standards, a $1.8B fund for friends is bad",
+      "url": "https://www.economist.com/united-states/2026/05/19/even-by-trumpian-standards-a-18bn-fund-for-friends-is-bad",
       "source": "Hacker News"
     },
     {
-      "title": "PyTorch Landscape",
-      "url": "https://pytorch.landscape2.io",
+      "title": "Ask HN: What are Stainless users doing now that Anthropic has killed it?",
+      "url": "https://news.ycombinator.com/item?id=48202774",
       "source": "Hacker News"
     }
   ]
