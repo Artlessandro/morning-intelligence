@@ -1,29 +1,29 @@
 {
-  "date": "2026-05-20",
+  "date": "2026-05-21",
   "top_stories": [
     {
-      "title": "GitHub Compromised",
-      "url": "https://twitter.com/i/status/2056949168208552080",
+      "title": "Trump admin didn't want Ebola-exposed Americans, sent them to Berlin, Prague",
+      "url": "https://arstechnica.com/health/2026/05/trump-admin-didnt-want-ebola-exposed-americans-sent-them-to-berlin-prague/",
       "source": "Hacker News"
     },
     {
-      "title": "India's hottest district shuts at 10 am as mercury breaches 48 C mark",
-      "url": "https://www.hindustantimes.com/india-news/indias-hottest-district-banda-shuts-at-10-am-as-mercury-breaches-48-degrees-celsius-mark-101779240653594.html",
+      "title": "Meta Lays Off 8k Employees, as A.I. Casualties Mount",
+      "url": "https://www.nytimes.com/2026/05/19/technology/meta-layoffs-ai.html",
       "source": "Hacker News"
     },
     {
-      "title": "Evals will break",
-      "url": "https://wanglun1996.github.io/blog/your-evals-will-break.html",
+      "title": "Why does the arrow (->) operator in C exist?",
+      "url": "https://stackoverflow.com/questions/13366083/why-does-the-arrow-operator-in-c-exist",
       "source": "Hacker News"
     },
     {
-      "title": "Even by Trumpian standards, a $1.8B fund for friends is bad",
-      "url": "https://www.economist.com/united-states/2026/05/19/even-by-trumpian-standards-a-18bn-fund-for-friends-is-bad",
+      "title": "VPNs: The \"Most Trusted\" Security Tool Until Claude Roasts It in a Weekend",
+      "url": "https://www.hacktron.ai/blog/cve-2026-0265-panos-globalprotect-cas-auth-bypass",
       "source": "Hacker News"
     },
     {
-      "title": "Ask HN: What are Stainless users doing now that Anthropic has killed it?",
-      "url": "https://news.ycombinator.com/item?id=48202774",
+      "title": "SpaceX Filing Reveals $4.28B Loss, Musk's Tight Grip (3)",
+      "url": "https://news.bloomberglaw.com/capital-markets/musks-spacex-files-publicly-for-nasdaq-ipo-under-symbol-spcx",
       "source": "Hacker News"
     }
   ]
