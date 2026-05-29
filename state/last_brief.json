@@ -1,29 +1,29 @@
 {
-  "date": "2026-05-28",
+  "date": "2026-05-29",
   "top_stories": [
     {
-      "title": "Hallucinate – Massively Multiplayer Online Rave",
-      "url": "https://hallucinate.site",
+      "title": "Cars are trying to spy on you, and it's only just the beginning",
+      "url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
       "source": "Hacker News"
     },
     {
-      "title": "MIT president: Why so many optimistic scientists are losing heart",
-      "url": "https://www.bostonglobe.com/2026/05/26/opinion/science-funding-cuts-mit/",
+      "title": "The most spectacular rocket explosion since N1 just happened in Florida",
+      "url": "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/",
       "source": "Hacker News"
     },
     {
-      "title": "World likely to breach 1.5°C limit in next five years",
-      "url": "https://news.un.org/en/story/2025/05/1163751",
+      "title": "Italians and Dutch share the same gestural instinct for teaching",
+      "url": "https://www.mpi.nl/news/italians-and-dutch-share-same-gestural-instinct-teaching",
       "source": "Hacker News"
     },
     {
-      "title": "SpaceX: Did Elon Musk Just Rig the Stock Market? [video]",
-      "url": "https://www.youtube.com/watch?v=sYA-z0Y8WRQ",
+      "title": "GNUtrition 0.33.0rc3",
+      "url": "https://savannah.gnu.org/news/?id=10895",
       "source": "Hacker News"
     },
     {
-      "title": "Sigbovik 2026 Proceedings [pdf]",
-      "url": "https://sigbovik.org/2026/proceedings.pdf",
+      "title": "Python utility package for building Claude Code hooks",
+      "url": "https://github.com/RasmusGodske/claude-hook-utils",
       "source": "Hacker News"
     }
   ]
