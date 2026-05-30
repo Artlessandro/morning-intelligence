@@ -1,29 +1,29 @@
 {
-  "date": "2026-05-29",
+  "date": "2026-05-30",
   "top_stories": [
     {
-      "title": "Cars are trying to spy on you, and it's only just the beginning",
-      "url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
+      "title": "WH proposes rules giving political appointees final approval on research grants",
+      "url": "https://www.scientificamerican.com/article/white-house-proposes-new-rules-giving-political-appointees-final-say-on-research-grants/",
       "source": "Hacker News"
     },
     {
-      "title": "The most spectacular rocket explosion since N1 just happened in Florida",
-      "url": "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/",
+      "title": "Naphtha shortages in Japan",
+      "url": "https://www.nippon.com/en/japan-data/h02783/",
       "source": "Hacker News"
     },
     {
-      "title": "Italians and Dutch share the same gestural instinct for teaching",
-      "url": "https://www.mpi.nl/news/italians-and-dutch-share-same-gestural-instinct-teaching",
+      "title": "Perry Compiles TypeScript directly to executables using SWC and LLVM",
+      "url": "https://www.perryts.com/",
       "source": "Hacker News"
     },
     {
-      "title": "GNUtrition 0.33.0rc3",
-      "url": "https://savannah.gnu.org/news/?id=10895",
+      "title": "US strike campaign against drug boats tops 200 deaths",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/drug-boat-strikes-cocaine-trafficking-b2986243.html",
       "source": "Hacker News"
     },
     {
-      "title": "Python utility package for building Claude Code hooks",
-      "url": "https://github.com/RasmusGodske/claude-hook-utils",
+      "title": "TempleOS WASM",
+      "url": "https://templeos.reiko.app/",
       "source": "Hacker News"
     }
   ]
