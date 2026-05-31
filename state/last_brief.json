@@ -1,29 +1,29 @@
 {
-  "date": "2026-05-30",
+  "date": "2026-05-31",
   "top_stories": [
     {
-      "title": "WH proposes rules giving political appointees final approval on research grants",
-      "url": "https://www.scientificamerican.com/article/white-house-proposes-new-rules-giving-political-appointees-final-say-on-research-grants/",
+      "title": "Please Do Not Vibe Fuck Up This Software – Rsync",
+      "url": "https://github.com/RsyncProject/rsync/issues/929",
       "source": "Hacker News"
     },
     {
-      "title": "Naphtha shortages in Japan",
-      "url": "https://www.nippon.com/en/japan-data/h02783/",
+      "title": "Ahoy, DECmate II the little PDP-8 that could",
+      "url": "http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html",
       "source": "Hacker News"
     },
     {
-      "title": "Perry Compiles TypeScript directly to executables using SWC and LLVM",
-      "url": "https://www.perryts.com/",
+      "title": "Building a LangGraph pipeline for production data engineering",
+      "url": "https://labyrinthanalyticsconsulting.com/blog/building-first-langgraph-pipeline",
       "source": "Hacker News"
     },
     {
-      "title": "US strike campaign against drug boats tops 200 deaths",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/drug-boat-strikes-cocaine-trafficking-b2986243.html",
+      "title": "Bill Gates Spent Years Crafting His Image. Now It's Cracking",
+      "url": "https://www.wsj.com/business/bill-gates-image-epstein-e0b83243",
       "source": "Hacker News"
     },
     {
-      "title": "TempleOS WASM",
-      "url": "https://templeos.reiko.app/",
+      "title": "The SpaceX IPO is great for Elon Musk and terrible for you",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/940001/elon-musk-spacex-ipo-ai",
       "source": "Hacker News"
     }
   ]
