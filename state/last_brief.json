@@ -1,29 +1,29 @@
 {
-  "date": "2026-05-31",
+  "date": "2026-06-01",
   "top_stories": [
     {
-      "title": "Please Do Not Vibe Fuck Up This Software – Rsync",
-      "url": "https://github.com/RsyncProject/rsync/issues/929",
+      "title": "Nvidia RTX Spark",
+      "url": "https://www.nvidia.com/en-us/products/rtx-spark/",
       "source": "Hacker News"
     },
     {
-      "title": "Ahoy, DECmate II the little PDP-8 that could",
-      "url": "http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html",
+      "title": "Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas",
+      "url": "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/",
       "source": "Hacker News"
     },
     {
-      "title": "Building a LangGraph pipeline for production data engineering",
-      "url": "https://labyrinthanalyticsconsulting.com/blog/building-first-langgraph-pipeline",
+      "title": "Nvidia Announces RTX Spark",
+      "url": "https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date",
       "source": "Hacker News"
     },
     {
-      "title": "Bill Gates Spent Years Crafting His Image. Now It's Cracking",
-      "url": "https://www.wsj.com/business/bill-gates-image-epstein-e0b83243",
+      "title": "Nvidia and Microsoft Reinvent Windows PCs for the Age of Personal AI",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-microsoft-windows-pcs-agents-rtx-spark",
       "source": "Hacker News"
     },
     {
-      "title": "The SpaceX IPO is great for Elon Musk and terrible for you",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/940001/elon-musk-spacex-ipo-ai",
+      "title": "Surface Laptop Ultra: Made for World Makers",
+      "url": "https://blogs.windows.com/devices/2026/05/31/introducing-surface-laptop-ultra-made-for-world-makers/",
       "source": "Hacker News"
     }
   ]
