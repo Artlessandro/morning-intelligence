@@ -1,29 +1,29 @@
 {
-  "date": "2026-06-01",
+  "date": "2026-06-02",
   "top_stories": [
     {
-      "title": "Nvidia RTX Spark",
-      "url": "https://www.nvidia.com/en-us/products/rtx-spark/",
+      "title": "strace-ui, Bonsai_term, and the TUI renaissance",
+      "url": "https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/",
       "source": "Hacker News"
     },
     {
-      "title": "Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas",
-      "url": "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/",
+      "title": "Canada considers cancelling part of U.S. F-35 order to buy 60 Swedish Gripen",
+      "url": "https://www.armyrecognition.com/news/aerospace-news/2026/canada-f35-saab-gripen-fighter-jet-order",
       "source": "Hacker News"
     },
     {
-      "title": "Nvidia Announces RTX Spark",
-      "url": "https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date",
+      "title": "Mellum2 Goes Open Source: A Fast Model for AI Workflows",
+      "url": "https://blog.jetbrains.com/ai/2026/06/mellum2-goes-open-source-a-fast-model-for-ai-workflows/",
       "source": "Hacker News"
     },
     {
-      "title": "Nvidia and Microsoft Reinvent Windows PCs for the Age of Personal AI",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-microsoft-windows-pcs-agents-rtx-spark",
+      "title": "I'm Done Using AI",
+      "url": "https://news.ycombinator.com/item?id=48366380",
       "source": "Hacker News"
     },
     {
-      "title": "Surface Laptop Ultra: Made for World Makers",
-      "url": "https://blogs.windows.com/devices/2026/05/31/introducing-surface-laptop-ultra-made-for-world-makers/",
+      "title": "Hegseth strikes female and Black Navy officers from promotion list",
+      "url": "https://www.bostonglobe.com/2026/06/01/nation/hegseth-female-black-navy-officers-promotion/",
       "source": "Hacker News"
     }
   ]
