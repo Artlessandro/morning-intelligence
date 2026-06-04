@@ -1,29 +1,29 @@
 {
-  "date": "2026-06-03",
+  "date": "2026-06-04",
   "top_stories": [
     {
-      "title": "Americans Are Leaving the U.S. in Record Numbers",
-      "url": "https://www.wsj.com/podcasts/the-journal/americans-are-leaving-the-us-in-record-numbers/f2ae7db5-db04-4394-84db-7536e5b681ec",
+      "title": "The SpaceX IPO Will Be the Theft of the Century",
+      "url": "https://montanaskeptic.substack.com/p/the-spacex-ipo-will-be-the-theft",
       "source": "Hacker News"
     },
     {
-      "title": "GitLab to cut workforce by 14% and exit 22 countries in restructure around AI",
-      "url": "https://www.msn.com/en-us/money/companies/gitlab-announces-14-reduction-in-global-workforce-expects-to-exit-22-countries/ar-AA24FoMd",
+      "title": "Fired 60 Minutes Scott Pelley: CBS told to inject 'falsehoods' into reporting",
+      "url": "https://www.theguardian.com/media/2026/jun/03/60-minutes-scott-pelley-cbs-accusations",
       "source": "Hacker News"
     },
     {
-      "title": "Trump signs new order to shut down bank accounts of undocumented immigrants",
-      "url": "https://finance.yahoo.com/economy/policy/articles/trump-signs-order-shut-down-225333740.html",
+      "title": "Ongoing NPM supply chain attack uses binding.gyp to spread like a worm",
+      "url": "https://github.com/jagreehal/ai-sdk-ollama/issues/975",
       "source": "Hacker News"
     },
     {
-      "title": "Tay AI Chatbot",
-      "url": "https://en.wikipedia.org/wiki/Tay_(chatbot)",
+      "title": "Trump signs AI order asking companies to give government early access to models",
+      "url": "https://www.cnbc.com/2026/06/02/trump-executive-order-ai.html",
       "source": "Hacker News"
     },
     {
-      "title": "OpenAI new privacy policy to include info about ads in ChatGPT",
-      "url": "https://news.ycombinator.com/item?id=48380045",
+      "title": "License plate frame pattern optimizer for evading ALPR",
+      "url": "https://github.com/Meltedd/scarecrow",
       "source": "Hacker News"
     }
   ]
