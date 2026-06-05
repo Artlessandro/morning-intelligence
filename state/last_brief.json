@@ -1,29 +1,29 @@
 {
-  "date": "2026-06-04",
+  "date": "2026-06-05",
   "top_stories": [
     {
-      "title": "The SpaceX IPO Will Be the Theft of the Century",
-      "url": "https://montanaskeptic.substack.com/p/the-spacex-ipo-will-be-the-theft",
+      "title": "Azure Linux 4.0 is Microsoft's first general-purpose Linux",
+      "url": "https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/",
       "source": "Hacker News"
     },
     {
-      "title": "Fired 60 Minutes Scott Pelley: CBS told to inject 'falsehoods' into reporting",
-      "url": "https://www.theguardian.com/media/2026/jun/03/60-minutes-scott-pelley-cbs-accusations",
+      "title": "SpaceX: Flying High on Impunity",
+      "url": "https://georgiebc.wordpress.com/2026/06/01/flying-high-on-impunity/",
       "source": "Hacker News"
     },
     {
-      "title": "Ongoing NPM supply chain attack uses binding.gyp to spread like a worm",
-      "url": "https://github.com/jagreehal/ai-sdk-ollama/issues/975",
+      "title": "The Pentagon is running an AI propaganda mill targeting Latin America",
+      "url": "https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/",
       "source": "Hacker News"
     },
     {
-      "title": "Trump signs AI order asking companies to give government early access to models",
-      "url": "https://www.cnbc.com/2026/06/02/trump-executive-order-ai.html",
+      "title": "Dear Microsoft, enough is enough",
+      "url": "https://www.politico.eu/sponsored-content/dear-microsoft-enough-is-enough/",
       "source": "Hacker News"
     },
     {
-      "title": "License plate frame pattern optimizer for evading ALPR",
-      "url": "https://github.com/Meltedd/scarecrow",
+      "title": "Meta Silently Added Face-Recognition for Its Smart Glasses to Phones",
+      "url": "https://www.wired.com/story/meta-smart-glasses-face-recognition-nametag-connections/",
       "source": "Hacker News"
     }
   ]
