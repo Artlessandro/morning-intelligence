@@ -1,29 +1,29 @@
 {
-  "date": "2026-06-06",
+  "date": "2026-06-07",
   "top_stories": [
     {
-      "title": "Ask HN: Why is the HN crowd so anti-AI?",
-      "url": "https://news.ycombinator.com/item?id=48420827",
+      "title": "Valve P2P networking broken for more than 2 months",
+      "url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
       "source": "Hacker News"
     },
     {
-      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+      "url": "https://arxiv.org/abs/2601.14470",
       "source": "Hacker News"
     },
     {
-      "title": "C++: The Programming Language back cover raises questions not answered by front",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391",
+      "title": "Field of clones: How horse replicas came to dominate polo",
+      "url": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
       "source": "Hacker News"
     },
     {
-      "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
-      "url": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
+      "title": "How Liminalism Became the Defining Aesthetic of Our Time",
+      "url": "https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/",
       "source": "Hacker News"
     },
     {
-      "title": "Lockdown Mode",
-      "url": "https://help.openai.com/en/articles/20001061-lockdown-mode",
+      "title": "Show HN: Oproxy – inspect and modify network traffic from the browser",
+      "url": "https://github.com/sauravrao637/oproxy",
       "source": "Hacker News"
     }
   ]
