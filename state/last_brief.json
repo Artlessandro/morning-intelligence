@@ -1,29 +1,29 @@
 {
-  "date": "2026-06-13",
+  "date": "2026-06-14",
   "top_stories": [
     {
-      "title": "Open source AI must win",
-      "url": "https://opensourceaimustwin.com/?share=v2",
+      "title": "The redistribution of housing wealth caused by rent control [pdf]",
+      "url": "https://www.rhawa.org/file/secure/shs-the-impact-of-rent-control-in-st-paul.pdf",
       "source": "Hacker News"
     },
     {
-      "title": "Our response to the US ban on Fable 5 and Mythos 5",
-      "url": "https://isaacus.com/blog/our-response-to-the-us-ban-on-fable-5-and-mythos-5",
+      "title": "Software Architecture Guide (2019)",
+      "url": "https://martinfowler.com/architecture/",
       "source": "Hacker News"
     },
     {
-      "title": "There is a shadow hanging over this Fable thing",
-      "url": "https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow",
+      "title": "Pac-Man, but you're the ghost",
+      "url": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
       "source": "Hacker News"
     },
     {
-      "title": "On CPU Physics and CPU Cycles",
-      "url": "https://6it.dev/blog/on-cpu-physics-and-cpu-cycles-80730",
+      "title": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
+      "url": "https://sqltoerdiagram.com/",
       "source": "Hacker News"
     },
     {
-      "title": "Sam Bankman-Fried loses fraud conviction appeal",
-      "url": "https://www.ft.com/content/adbf76dc-c476-4f8f-9a6e-3bea0a5c24a6",
+      "title": "Making Claude a Chemist",
+      "url": "https://www.anthropic.com/research/making-claude-a-chemist",
       "source": "Hacker News"
     }
   ]
