@@ -1,29 +1,29 @@
 {
-  "date": "2026-06-16",
+  "date": "2026-06-17",
   "top_stories": [
     {
-      "title": "I Could've Rickrolled the FIFA World Cup. All I Needed Was My ID",
-      "url": "https://bobdahacker.com/blog/fifa-hack",
+      "title": "NetNewsWire Status",
+      "url": "https://inessential.com/2026/06/15/netnewswire-status.html",
       "source": "Hacker News"
     },
     {
-      "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419",
+      "title": "Peter Thiel's private society attendance list leaked via hard-coded HTML",
+      "url": "https://github.com/nzaki-dev/dialog",
       "source": "Hacker News"
     },
     {
-      "title": "John Carmack on Fabrice Bellard",
-      "url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
+      "title": "Apple plans change to Hide My Email that could make it less effective",
+      "url": "https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art",
-      "url": "https://garden-of-flowers.heikkilotvonen.com/",
+      "title": "GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
       "source": "Hacker News"
     },
     {
-      "title": "Firefox 152 Now Available with JPEG-XL Support",
-      "url": "https://www.phoronix.com/news/Firefox-152-Download",
+      "title": "The Battery Impact of 50 Open GitHub Issues on an M3 Mac",
+      "url": "https://gopeek-lovat.vercel.app/blog-github-issues-battery-m3-mac.html",
       "source": "Hacker News"
     }
   ]
