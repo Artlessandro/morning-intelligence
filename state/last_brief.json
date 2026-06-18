@@ -1,29 +1,29 @@
 {
-  "date": "2026-06-17",
+  "date": "2026-06-18",
   "top_stories": [
     {
-      "title": "NetNewsWire Status",
-      "url": "https://inessential.com/2026/06/15/netnewswire-status.html",
+      "title": "SteamOS Linux 3.8 released as stable",
+      "url": "https://store.steampowered.com/news/app/1675200/view/697641379212298072",
       "source": "Hacker News"
     },
     {
-      "title": "Peter Thiel's private society attendance list leaked via hard-coded HTML",
-      "url": "https://github.com/nzaki-dev/dialog",
+      "title": "I Hate Compilers",
+      "url": "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/",
       "source": "Hacker News"
     },
     {
-      "title": "Apple plans change to Hide My Email that could make it less effective",
-      "url": "https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/",
+      "title": "Apple boss Tim Cook says prices to rise due to memory chip costs",
+      "url": "https://www.bbc.com/news/articles/c3wyxvqdx1zo",
       "source": "Hacker News"
     },
     {
-      "title": "GLM-5.2",
-      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "title": "Nim Conf 2026 (Online, Sat June 20)",
+      "url": "https://conf.nim-lang.org/",
       "source": "Hacker News"
     },
     {
-      "title": "The Battery Impact of 50 Open GitHub Issues on an M3 Mac",
-      "url": "https://gopeek-lovat.vercel.app/blog-github-issues-battery-m3-mac.html",
+      "title": "A 10K-star milestone for Diskless Kafka",
+      "url": "https://github.com/AutoMQ/automq",
       "source": "Hacker News"
     }
   ]
