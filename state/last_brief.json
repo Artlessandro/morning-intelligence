@@ -1,29 +1,29 @@
 {
-  "date": "2026-06-18",
+  "date": "2026-06-19",
   "top_stories": [
     {
-      "title": "SteamOS Linux 3.8 released as stable",
-      "url": "https://store.steampowered.com/news/app/1675200/view/697641379212298072",
+      "title": "Many Let's Encrypt renewals had errors today",
+      "url": "https://letsencrypt.status.io/#2026",
       "source": "Hacker News"
     },
     {
-      "title": "I Hate Compilers",
-      "url": "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/",
+      "title": "Amazon employees say they're facing termination for backing data center limits",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
       "source": "Hacker News"
     },
     {
-      "title": "Apple boss Tim Cook says prices to rise due to memory chip costs",
-      "url": "https://www.bbc.com/news/articles/c3wyxvqdx1zo",
+      "title": "Vim Creator Bram Moolenaar's Forgotten Programming Language, Zimbu (2023)",
+      "url": "https://thenewstack.io/vim-creator-bram-moolenaars-forgotten-programming-language-zimbu/",
       "source": "Hacker News"
     },
     {
-      "title": "Nim Conf 2026 (Online, Sat June 20)",
-      "url": "https://conf.nim-lang.org/",
+      "title": "Show HN: A/B testing LLM silence with one system-prompt toggle",
+      "url": "https://twitter.com/RayanPal_/status/2067816563995189631",
       "source": "Hacker News"
     },
     {
-      "title": "A 10K-star milestone for Diskless Kafka",
-      "url": "https://github.com/AutoMQ/automq",
+      "title": "So You Want to Define a Well-Known URI",
+      "url": "https://mnot.net/blog/2026/well_known_uris",
       "source": "Hacker News"
     }
   ]
