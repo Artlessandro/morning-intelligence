@@ -1,29 +1,29 @@
 {
-  "date": "2026-06-19",
+  "date": "2026-06-20",
   "top_stories": [
     {
-      "title": "Many Let's Encrypt renewals had errors today",
-      "url": "https://letsencrypt.status.io/#2026",
+      "title": "Satellite reveals immense scale of GPS signal tampering",
+      "url": "https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering",
       "source": "Hacker News"
     },
     {
-      "title": "Amazon employees say they're facing termination for backing data center limits",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
+      "title": "XLibre XServer 25.2.0 Released",
+      "url": "https://github.com/X11Libre/xserver/wiki/XLibre-XServer-25.2-Changes",
       "source": "Hacker News"
     },
     {
-      "title": "Vim Creator Bram Moolenaar's Forgotten Programming Language, Zimbu (2023)",
-      "url": "https://thenewstack.io/vim-creator-bram-moolenaars-forgotten-programming-language-zimbu/",
+      "title": "I Stored a Website in a Favicon",
+      "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: A/B testing LLM silence with one system-prompt toggle",
-      "url": "https://twitter.com/RayanPal_/status/2067816563995189631",
+      "title": "How to lose a war in three easy steps",
+      "url": "https://www.ft.com/content/0ba6b511-649e-4a29-bb99-f824584ec93d",
       "source": "Hacker News"
     },
     {
-      "title": "So You Want to Define a Well-Known URI",
-      "url": "https://mnot.net/blog/2026/well_known_uris",
+      "title": "China will have a Fable 5-class AI model before next year",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-that-china-will-have-a-fable-5-class-ai-model-probably-q1-next-year-ceo-of-chinese-anthropic-rival-says-it-wont-take-that-long",
       "source": "Hacker News"
     }
   ]
