@@ -1,29 +1,29 @@
 {
-  "date": "2026-06-20",
+  "date": "2026-06-21",
   "top_stories": [
     {
-      "title": "Satellite reveals immense scale of GPS signal tampering",
-      "url": "https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering",
+      "title": "Your brain was never designed for this much bad news",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
       "source": "Hacker News"
     },
     {
-      "title": "XLibre XServer 25.2.0 Released",
-      "url": "https://github.com/X11Libre/xserver/wiki/XLibre-XServer-25.2-Changes",
+      "title": "Building reliable agentic AI systems",
+      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
       "source": "Hacker News"
     },
     {
-      "title": "I Stored a Website in a Favicon",
-      "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
+      "title": "The 100k Whys of AI",
+      "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
       "source": "Hacker News"
     },
     {
-      "title": "How to lose a war in three easy steps",
-      "url": "https://www.ft.com/content/0ba6b511-649e-4a29-bb99-f824584ec93d",
+      "title": "Armstrong Effect",
+      "url": "https://en.wikipedia.org/wiki/Armstrong_effect",
       "source": "Hacker News"
     },
     {
-      "title": "China will have a Fable 5-class AI model before next year",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-that-china-will-have-a-fable-5-class-ai-model-probably-q1-next-year-ceo-of-chinese-anthropic-rival-says-it-wont-take-that-long",
+      "title": "Polymarket Paid Dozens to Post Videos of Themselves 'Winning' with Fake Bets",
+      "url": "https://m.slashdot.org/story/455718",
       "source": "Hacker News"
     }
   ]
