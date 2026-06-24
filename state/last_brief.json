@@ -1,29 +1,29 @@
 {
-  "date": "2026-06-23",
+  "date": "2026-06-24",
   "top_stories": [
     {
-      "title": "Will It Mythos?",
-      "url": "https://swelljoe.com/post/will-it-mythos/",
+      "title": "Raspberry Pi Pico W as USB Wi-Fi Adapter",
+      "url": "https://gitlab.com/baiyibai/pico-usb-wifi",
       "source": "Hacker News"
     },
     {
-      "title": "The Cheap Model Fallacy",
-      "url": "https://twitter.com/deepwhitman/status/2067282002307612888",
+      "title": "\"Fix\" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",
+      "url": "https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf",
       "source": "Hacker News"
     },
     {
-      "title": "GLM-5.2 is the step change for open agents",
-      "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+      "title": "US AI stock sell-off shakes markets from Wall Street to Asia",
+      "url": "https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets",
       "source": "Hacker News"
     },
     {
-      "title": "AI Wrote the Code. Nobody Knows Why It Made Those Decisions",
-      "url": "https://brunelly.com/",
+      "title": "The Teensy Executable Revisited",
+      "url": "https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html",
       "source": "Hacker News"
     },
     {
-      "title": "Reddit now blocks all free API access besides RedReader",
-      "url": "https://old.reddit.com/r/continuumreddit/comments/1u2monb/comment/oqyqn99/",
+      "title": "Congress Clears Housing Bill, Cementing a Rare Bipartisan Feat",
+      "url": "https://www.nytimes.com/2026/06/23/us/politics/congress-housing-bill.html",
       "source": "Hacker News"
     }
   ]
