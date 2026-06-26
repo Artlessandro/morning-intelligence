@@ -1,29 +1,29 @@
 {
-  "date": "2026-06-25",
+  "date": "2026-06-26",
   "top_stories": [
     {
-      "title": "GTA 6 Physical Copies Won't Include a Disc, Will Just Be a Code in a Box",
-      "url": "https://www.ign.com/articles/grand-theft-auto-6-physical-copies-wont-include-a-disc-will-just-be-a-code-in-a-box",
+      "title": "Libre Barcode Project",
+      "url": "https://graphicore.github.io/librebarcode/",
       "source": "Hacker News"
     },
     {
-      "title": "The Unbearable Cheapness of Open Weight Models",
-      "url": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/",
+      "title": "No-One Escapes the Permanent Underclass",
+      "url": "https://borretti.me/article/no-one-escapes-the-permanent-underclass",
       "source": "Hacker News"
     },
     {
-      "title": "The Other Side of Android: My Favorite F-Droid Apps",
-      "url": "https://gardinerbryant.com/the-other-side-of-android-my-favorite-f-droid-apps/",
+      "title": "I wrote a 750-page book on self-hosting in production",
+      "url": "https://selfdeployment.io/#table_of_contents",
       "source": "Hacker News"
     },
     {
-      "title": "Meta Pauses Employee Spyware After Exposing Workers' Private Data",
-      "url": "https://dissenter.com/tech/meta-pauses-employee-spyware-after-leaking-workers-private-data-to-ent",
+      "title": "Show HN: Turn any X account into an RSS feed",
+      "url": "https://rss.gurify.com/",
       "source": "Hacker News"
     },
     {
-      "title": "Chinese models are sometimes better, even if they're distilled",
-      "url": "https://dualuse.dev/posts/chinese-models-are-sometimes-better-even-if-distilled",
+      "title": "Show HN: Appaca – AI Workspace for Operators",
+      "url": "https://www.appaca.ai/",
       "source": "Hacker News"
     }
   ]
