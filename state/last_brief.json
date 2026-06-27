@@ -1,29 +1,29 @@
 {
-  "date": "2026-06-26",
+  "date": "2026-06-27",
   "top_stories": [
     {
-      "title": "Libre Barcode Project",
-      "url": "https://graphicore.github.io/librebarcode/",
+      "title": "WordStar: A Writer's Word Processor (1996)",
+      "url": "https://www.sfwriter.com/wordstar.htm",
       "source": "Hacker News"
     },
     {
-      "title": "No-One Escapes the Permanent Underclass",
-      "url": "https://borretti.me/article/no-one-escapes-the-permanent-underclass",
+      "title": "Ask HN: MacBook vs. Dedicated GPU for LLM",
+      "url": "https://news.ycombinator.com/item?id=48694802",
       "source": "Hacker News"
     },
     {
-      "title": "I wrote a 750-page book on self-hosting in production",
-      "url": "https://selfdeployment.io/#table_of_contents",
+      "title": "Anatomy of a Failed (Nation-State?) Attack",
+      "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: Turn any X account into an RSS feed",
-      "url": "https://rss.gurify.com/",
+      "title": "Ukrainian Attacks Spur State of Emergency Declaration in Crimea",
+      "url": "https://www.nytimes.com/2026/06/26/world/europe/crimea-ukraine-state-emergency.html",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: Appaca – AI Workspace for Operators",
-      "url": "https://www.appaca.ai/",
+      "title": "People Inc. CEO accuses Google of abusing its market power",
+      "url": "https://www.axios.com/2026/06/23/people-inc-google-ai-search-crawler",
       "source": "Hacker News"
     }
   ]
