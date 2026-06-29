@@ -1,29 +1,29 @@
 {
-  "date": "2026-06-28",
+  "date": "2026-06-29",
   "top_stories": [
     {
-      "title": "Marfa Public Radio Puts You to Sleep",
-      "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+      "title": "Herdr: Agent multiplexer that lives in your terminal",
+      "url": "https://github.com/ogulcancelik/herdr",
       "source": "Hacker News"
     },
     {
-      "title": "Ford hired AI and sacked humans. It backfired badly",
-      "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+      "title": "Some Simple Economics of AGI",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6298838",
       "source": "Hacker News"
     },
     {
-      "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
-      "url": "https://github.com/itsthelore/wayfinder-router",
+      "title": "Lore – give your coding agent the decisions your team made",
+      "url": "https://github.com/itsthelore/rac-core",
       "source": "Hacker News"
     },
     {
-      "title": "US Layoffs Skyrocket to Highest Level Since Pandemic AI Blamed for 40% of Cuts",
-      "url": "https://www.ibtimes.co.uk/us-layoffs-skyrocket-highest-level-since-pandemic-tech-giants-blame-ai-40-cuts-1805380",
+      "title": "Is Sunscreen the New Margarine?",
+      "url": "https://www.outsideonline.com/health/wellness/sunscreen-sun-exposure-skin-cancer-science/",
       "source": "Hacker News"
     },
     {
-      "title": "Grantham Warns U.S. Stocks Could Plunge 70% / Most Expensive Market in History",
-      "url": "https://247wallst.com/investing/2026/06/26/jeremy-grantham-warns-u-s-stocks-could-plunge-70-in-the-most-expensive-market-in-history/",
+      "title": "You aren't ready to be your own boss until you read this",
+      "url": "https://comuniq.xyz/post?t=1330",
       "source": "Hacker News"
     }
   ]
