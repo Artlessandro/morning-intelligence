@@ -1,29 +1,29 @@
 {
-  "date": "2026-06-30",
+  "date": "2026-07-01",
   "top_stories": [
     {
-      "title": "Popping the GPU Bubble",
-      "url": "https://moondream.ai/blog/popping-the-gpu-bubble",
+      "title": "The first early human eggs from stem cells",
+      "url": "https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells",
       "source": "Hacker News"
     },
     {
-      "title": "Study suggests most Americans would be healthier without daylight saving time",
-      "url": "https://med.stanford.edu/news/all-news/2025/09/daylight-saving-time.html",
+      "title": "How employment changes when firms adopt generative AI",
+      "url": "https://ramp.com/data/ai-jobs-impact",
       "source": "Hacker News"
     },
     {
-      "title": "US Supreme Court Just Blew Up EU-US Data Transfers",
-      "url": "https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers",
+      "title": "Claude Fable 5 available globally tomorrow",
+      "url": "https://twitter.com/anthropicai/status/2072163884430229756",
       "source": "Hacker News"
     },
     {
-      "title": "Bandcamp has laid off most of their engineers",
-      "url": "https://bsky.app/profile/grmnygrmny.bandcamp.com/post/3mpgvo7l2v22t",
+      "title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
+      "url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
       "source": "Hacker News"
     },
     {
-      "title": "ICE Tracks Down Woman to Force Her to Delete Instagram Post",
-      "url": "https://newrepublic.com/post/212340/ice-poll-worker-election-delete-instagram-post",
+      "title": "Meta is adding rate limits and soft paywall to smart glasses",
+      "url": "https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit",
       "source": "Hacker News"
     }
   ]
