@@ -1,29 +1,29 @@
 {
-  "date": "2026-07-01",
+  "date": "2026-07-02",
   "top_stories": [
     {
-      "title": "The first early human eggs from stem cells",
-      "url": "https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells",
+      "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+      "url": "https://senior-swe-bench.snorkel.ai/",
       "source": "Hacker News"
     },
     {
-      "title": "How employment changes when firms adopt generative AI",
-      "url": "https://ramp.com/data/ai-jobs-impact",
+      "title": "A new Android malware from Google",
+      "url": "https://f-droid.org/2026/07/01/adv-malware.html",
       "source": "Hacker News"
     },
     {
-      "title": "Claude Fable 5 available globally tomorrow",
-      "url": "https://twitter.com/anthropicai/status/2072163884430229756",
+      "title": "Society of Saint Pius X",
+      "url": "https://en.wikipedia.org/wiki/Society_of_Saint_Pius_X",
       "source": "Hacker News"
     },
     {
-      "title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
-      "url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
+      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
       "source": "Hacker News"
     },
     {
-      "title": "Meta is adding rate limits and soft paywall to smart glasses",
-      "url": "https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit",
+      "title": "Kids learn to bully from adults' threats, manipulation and criticism",
+      "url": "https://theconversation.com/kids-learn-to-bully-from-adults-threats-manipulation-and-criticism-a-child-psychologist-explains-how-parents-can-model-better-tactics-283251",
       "source": "Hacker News"
     }
   ]
