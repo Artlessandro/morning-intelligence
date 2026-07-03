@@ -1,29 +1,29 @@
 {
-  "date": "2026-07-02",
+  "date": "2026-07-03",
   "top_stories": [
     {
-      "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-      "url": "https://senior-swe-bench.snorkel.ai/",
+      "title": "The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't",
+      "url": "https://stefan.schueller.net/posts/the-free-market-lie/",
       "source": "Hacker News"
     },
     {
-      "title": "A new Android malware from Google",
-      "url": "https://f-droid.org/2026/07/01/adv-malware.html",
+      "title": "California votes to ruin 3D printing right after voting to keep killing games [video]",
+      "url": "https://www.youtube.com/watch?v=_GIigWnNRVg",
       "source": "Hacker News"
     },
     {
-      "title": "Society of Saint Pius X",
-      "url": "https://en.wikipedia.org/wiki/Society_of_Saint_Pius_X",
+      "title": "Wasmer: Fast, secure, lightweight containers based on WebAssembly",
+      "url": "https://wasmer.io/",
       "source": "Hacker News"
     },
     {
-      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "title": "14× faster embeddings: how we rebuilt the ONNX path in Manticore",
+      "url": "https://manticoresearch.com/blog/onnx-embeddings-speedup/",
       "source": "Hacker News"
     },
     {
-      "title": "Kids learn to bully from adults' threats, manipulation and criticism",
-      "url": "https://theconversation.com/kids-learn-to-bully-from-adults-threats-manipulation-and-criticism-a-child-psychologist-explains-how-parents-can-model-better-tactics-283251",
+      "title": "AI coding is a nightmare. Am I the only one experiencing this?",
+      "url": "https://news.ycombinator.com/item?id=48770319",
       "source": "Hacker News"
     }
   ]
