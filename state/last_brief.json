@@ -1,29 +1,29 @@
 {
-  "date": "2026-07-03",
+  "date": "2026-07-04",
   "top_stories": [
     {
-      "title": "The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't",
-      "url": "https://stefan.schueller.net/posts/the-free-market-lie/",
+      "title": "MSI Center – How to gain SYSTEM privileges in seconds",
+      "url": "https://mrbruh.com/msicenter/",
       "source": "Hacker News"
     },
     {
-      "title": "California votes to ruin 3D printing right after voting to keep killing games [video]",
-      "url": "https://www.youtube.com/watch?v=_GIigWnNRVg",
+      "title": "Synthesis is harder than analysis",
+      "url": "https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/",
       "source": "Hacker News"
     },
     {
-      "title": "Wasmer: Fast, secure, lightweight containers based on WebAssembly",
-      "url": "https://wasmer.io/",
+      "title": "Agentic coding notes from Galapogos Island",
+      "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
       "source": "Hacker News"
     },
     {
-      "title": "14× faster embeddings: how we rebuilt the ONNX path in Manticore",
-      "url": "https://manticoresearch.com/blog/onnx-embeddings-speedup/",
+      "title": "Maybe you should learn something",
+      "url": "https://www.marginalia.nu/log/a_135_learn/",
       "source": "Hacker News"
     },
     {
-      "title": "AI coding is a nightmare. Am I the only one experiencing this?",
-      "url": "https://news.ycombinator.com/item?id=48770319",
+      "title": "CueBench for Developers is live: score how well you drive coding agents",
+      "url": "https://app.cuebench.dev",
       "source": "Hacker News"
     }
   ]
