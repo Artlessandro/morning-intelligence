@@ -1,29 +1,29 @@
 {
-  "date": "2026-07-05",
+  "date": "2026-07-06",
   "top_stories": [
     {
-      "title": "If you're a button, you have one job",
-      "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
+      "title": "The White House Campaign to Overturn a World Cup Red Card",
+      "url": "https://www.wsj.com/sports/soccer/white-house-fifa-balogun-red-card-world-cup-46276fc8",
       "source": "Hacker News"
     },
     {
-      "title": "Egg consumption inversely correlated with Alzheimer's",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42002260/",
+      "title": "Shrimple – A Simpler, Nicer Markdown",
+      "url": "https://qount25.dev/Shrimple/",
       "source": "Hacker News"
     },
     {
-      "title": "University of Oxford Is Older Than the Aztec Empire and Other Facts of History (2013)",
-      "url": "https://www.smithsonianmag.com/smart-news/university-oxford-older-than-aztec-empire-other-facts-will-change-your-perspective-history-1529607/",
+      "title": "Apple sells me a MacBook to deliver $1700; cancels 5 days later quoting $2000?",
+      "url": "https://news.ycombinator.com/item?id=48800210",
       "source": "Hacker News"
     },
     {
-      "title": "President pardons 9 for Clean Air violations for 'fixing their car'",
-      "url": "https://www.msn.com/en-us/news/crime/trump-pardons-9-for-clean-air-violations-for-fixing-their-car/ar-AA27cSkT",
+      "title": "The final voyage of USS Nimitz",
+      "url": "https://news.usni.org/2026/07/03/uss-nimitz-an-aircraft-carriers-final-journey",
       "source": "Hacker News"
     },
     {
-      "title": "Shadcn/UI now defaults to Base UI instead of Radix",
-      "url": "https://ui.shadcn.com/docs/changelog",
+      "title": "Elon Musk's AI data center sparks fight over who can enforce clean air laws",
+      "url": "https://www.latimes.com/business/story/2026-06-30/elon-musks-massive-ai-data-center-sparks-fight-over-who-can-enforce-clean-air-laws",
       "source": "Hacker News"
     }
   ]
