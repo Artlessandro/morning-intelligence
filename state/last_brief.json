@@ -1,29 +1,29 @@
 {
-  "date": "2026-07-06",
+  "date": "2026-07-07",
   "top_stories": [
     {
-      "title": "The White House Campaign to Overturn a World Cup Red Card",
-      "url": "https://www.wsj.com/sports/soccer/white-house-fifa-balogun-red-card-world-cup-46276fc8",
+      "title": "DARPA program to make 30 yr batteries for drones from nuclear waste",
+      "url": "https://www.defenseone.com/technology/2026/07/these-light-weight-power-cells-run-nuclear-waste-and-could-power-next-gen-drones/414585/",
       "source": "Hacker News"
     },
     {
-      "title": "Shrimple – A Simpler, Nicer Markdown",
-      "url": "https://qount25.dev/Shrimple/",
+      "title": "Undertuber YouTube Underground Search Engine",
+      "url": "https://github.com/BooleanMuse/Undertuber-Underground-Youtube-Search-Engine",
       "source": "Hacker News"
     },
     {
-      "title": "Apple sells me a MacBook to deliver $1700; cancels 5 days later quoting $2000?",
-      "url": "https://news.ycombinator.com/item?id=48800210",
+      "title": "The Art of Computer Programming by Donald E. Knuth",
+      "url": "https://www-cs-faculty.stanford.edu/~knuth/taocp.html",
       "source": "Hacker News"
     },
     {
-      "title": "The final voyage of USS Nimitz",
-      "url": "https://news.usni.org/2026/07/03/uss-nimitz-an-aircraft-carriers-final-journey",
+      "title": "Odin 1.0 Announcement",
+      "url": "https://www.youtube.com/watch?v=dLPAqXi9In0",
       "source": "Hacker News"
     },
     {
-      "title": "Elon Musk's AI data center sparks fight over who can enforce clean air laws",
-      "url": "https://www.latimes.com/business/story/2026-06-30/elon-musks-massive-ai-data-center-sparks-fight-over-who-can-enforce-clean-air-laws",
+      "title": "The Socialist Temptation of Sam Altman",
+      "url": "https://www.wsj.com/opinion/openai-government-sam-altman-donald-trump-ai-5b2676a2",
       "source": "Hacker News"
     }
   ]
