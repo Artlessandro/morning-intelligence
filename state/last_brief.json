@@ -1,29 +1,29 @@
 {
-  "date": "2026-07-07",
+  "date": "2026-07-08",
   "top_stories": [
     {
-      "title": "DARPA program to make 30 yr batteries for drones from nuclear waste",
-      "url": "https://www.defenseone.com/technology/2026/07/these-light-weight-power-cells-run-nuclear-waste-and-could-power-next-gen-drones/414585/",
+      "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS",
+      "url": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
       "source": "Hacker News"
     },
     {
-      "title": "Undertuber YouTube Underground Search Engine",
-      "url": "https://github.com/BooleanMuse/Undertuber-Underground-Youtube-Search-Engine",
+      "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
+      "url": "https://twitter.com/OpenAI/status/2074704958419792299",
       "source": "Hacker News"
     },
     {
-      "title": "The Art of Computer Programming by Donald E. Knuth",
-      "url": "https://www-cs-faculty.stanford.edu/~knuth/taocp.html",
+      "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
+      "url": "https://www.digipres.org/the-floppy-guide/",
       "source": "Hacker News"
     },
     {
-      "title": "Odin 1.0 Announcement",
-      "url": "https://www.youtube.com/watch?v=dLPAqXi9In0",
+      "title": "Half of Americans struggle to afford groceries and gas, exclusive poll finds",
+      "url": "https://www.theguardian.com/business/2026/jul/07/cost-of-living-poll-groceries-gas",
       "source": "Hacker News"
     },
     {
-      "title": "The Socialist Temptation of Sam Altman",
-      "url": "https://www.wsj.com/opinion/openai-government-sam-altman-donald-trump-ai-5b2676a2",
+      "title": "Maine librarians are helping patrons resist AI and Big Tech",
+      "url": "https://www.bangordailynews.com/2026/07/02/midcoast/midcoast-culture/maine-librarians-are-helping-patrons-resist-ai-joam40zk0w/",
       "source": "Hacker News"
     }
   ]
