@@ -1,29 +1,29 @@
 {
-  "date": "2026-07-10",
+  "date": "2026-07-11",
   "top_stories": [
     {
-      "title": "China's public QR codes are being hijacked to redirect users to porn and scams",
-      "url": "https://www.sixthtone.com/news/1018752/ScanScam:CriminalsRedirectChina’sPublicQRCodestoPorn",
+      "title": "Big Tech Doubles Debt Load to $350B in AI Spending Spree",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-10/big-tech-doubles-debt-load-to-350-billion-in-ai-spending-spree",
       "source": "Hacker News"
     },
     {
-      "title": "China recovers reusable rocket used in the maiden launch of Long March 10B",
-      "url": "https://www.scmp.com/news/china/science/article/3360069/china-recovers-long-march-10b-reusable-rocket-maiden-launch",
+      "title": "Meta removes AI feature on Instagram after global backlash",
+      "url": "https://www.rnz.co.nz/news/science-and-technology/700735/missed-the-mark-meta-removes-ai-feature-on-instagram-after-global-backlash",
       "source": "Hacker News"
     },
     {
-      "title": "China recovers Long March 10B rocket",
-      "url": "https://www.bilibili.com/video/BV1n6NL6fEP9",
+      "title": "The crypto billionaires building a world where money buys you a vote",
+      "url": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o",
       "source": "Hacker News"
     },
     {
-      "title": "Sony disc-free PS5 plan triggered $457M lawsuit, undercutting antitrust defense",
-      "url": "https://fortune.com/2026/07/09/sony-playstation-discs-lawsuit-xbox-antitrust/",
+      "title": "Apple sues OpenAI for stealing trade secrets, blockbuster Silicon Valley lawsuit",
+      "url": "https://www.latimes.com/business/story/2026-07-10/apple-accuses-openai-of-stealing-trade-secrets-in-blockbuster-silicon-valley-lawsuit",
       "source": "Hacker News"
     },
     {
-      "title": "Lisp as the Maxwell's Equations of Software",
-      "url": "https://michaelnielsen.org/ddi/lisp-as-the-maxwells-equations-of-software/",
+      "title": "I tried NetBSD as a desktop,it felt like stepping into the 90s in a good way",
+      "url": "https://www.howtogeek.com/i-tried-netbsd-as-a-desktop-and-it-felt-like-stepping-into-the-90s-in-a-good-way/",
       "source": "Hacker News"
     }
   ]
