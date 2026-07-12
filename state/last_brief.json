@@ -1,29 +1,29 @@
 {
-  "date": "2026-07-11",
+  "date": "2026-07-12",
   "top_stories": [
     {
-      "title": "Big Tech Doubles Debt Load to $350B in AI Spending Spree",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-10/big-tech-doubles-debt-load-to-350-billion-in-ai-spending-spree",
+      "title": "What xAI's Grok Build CLI Actually Sends to xAI",
+      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
       "source": "Hacker News"
     },
     {
-      "title": "Meta removes AI feature on Instagram after global backlash",
-      "url": "https://www.rnz.co.nz/news/science-and-technology/700735/missed-the-mark-meta-removes-ai-feature-on-instagram-after-global-backlash",
+      "title": "Why are US consumers so angry? It's not just high prices",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jun/04/us-consumer-rage-prices-economy",
       "source": "Hacker News"
     },
     {
-      "title": "The crypto billionaires building a world where money buys you a vote",
-      "url": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o",
+      "title": "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
+      "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
       "source": "Hacker News"
     },
     {
-      "title": "Apple sues OpenAI for stealing trade secrets, blockbuster Silicon Valley lawsuit",
-      "url": "https://www.latimes.com/business/story/2026-07-10/apple-accuses-openai-of-stealing-trade-secrets-in-blockbuster-silicon-valley-lawsuit",
+      "title": "A Erlang style pure Scheme Webserver and further",
+      "url": "https://igropyr.com",
       "source": "Hacker News"
     },
     {
-      "title": "I tried NetBSD as a desktop,it felt like stepping into the 90s in a good way",
-      "url": "https://www.howtogeek.com/i-tried-netbsd-as-a-desktop-and-it-felt-like-stepping-into-the-90s-in-a-good-way/",
+      "title": "Firefox 12.58% for Desktop Browser Market Share in North America June 2026",
+      "url": "https://gs.statcounter.com/browser-market-share/desktop/north-america",
       "source": "Hacker News"
     }
   ]
