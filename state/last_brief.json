@@ -1,29 +1,29 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "top_stories": [
     {
-      "title": "Jurassic Park computers in excruciating detail",
-      "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+      "title": "Guerrilla London Bus Ads Mock Kylie Jenner's Meta Glasses Campaign",
+      "url": "https://hyperallergic.com/guerrilla-london-bus-ads-mock-kylie-jenners-meta-glasses-campaign/",
       "source": "Hacker News"
     },
     {
-      "title": "Stripe, Advent offer to buy PayPal for more than $53B",
-      "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
+      "title": "If you want to create a button from scratch, you must first create the universe",
+      "url": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
       "source": "Hacker News"
     },
     {
-      "title": "Data Showing Palantir's Positive Impact on NHS Riddled with Errors",
-      "url": "https://novaramedia.com/2026/07/13/data-showing-palantirs-positive-impact-on-nhs-riddled-with-errors/",
+      "title": "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency",
+      "url": "https://pmbanugo.me/blog/why-async-await-complect-concurrency",
       "source": "Hacker News"
     },
     {
-      "title": "Microsoft's Secure Boot has been broken for a decade and no one noticed",
-      "url": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
+      "title": "Making 768 servers look like 1",
+      "url": "https://planetscale.com/blog/making-768-servers-look-like-1",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: Samosa Chat - Run Qwen3.6-35B-A3B Locally on a 16 GB Mac",
-      "url": "https://github.com/deepanwadhwa/samosa-chat",
+      "title": "An Interactive Map of AI",
+      "url": "https://artifipedia.com/map",
       "source": "Hacker News"
     }
   ]
