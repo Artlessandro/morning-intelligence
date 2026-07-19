@@ -1,29 +1,29 @@
 {
-  "date": "2026-07-18",
+  "date": "2026-07-19",
   "top_stories": [
     {
-      "title": "I Started a \"Dirt Notebook\"",
-      "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
+      "title": "Transcribe.cpp",
+      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
       "source": "Hacker News"
     },
     {
-      "title": "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
-      "url": "https://moonstone.sh/",
+      "title": "AI Mania Is Eviscerating Global Decision-Making",
+      "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
       "source": "Hacker News"
     },
     {
-      "title": "Newly retired couples may lose $16,900/year in Social Security in 2033",
-      "url": "https://www.usatoday.com/story/money/personalfinance/2026/07/16/social-security-cut-2033/90941392007/",
+      "title": "Better and Cheaper Than IPTV",
+      "url": "https://github.com/stupside/castor",
       "source": "Hacker News"
     },
     {
-      "title": "Beginning July 20, Claude Fable 5 will be included in all Max plans",
-      "url": "https://twitter.com/claudeai/status/2078302415804379218",
+      "title": "FDA approves new kind of cholesterol pill",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol",
       "source": "Hacker News"
     },
     {
-      "title": "Alien world chemistry found inside meteorite that struck New Jersey home",
-      "url": "https://phys.org/news/2026-07-alien-world-chemistry-meteorite-struck.html",
+      "title": "LLM-Integrated Multivariable Calculus Course",
+      "url": "https://calculus.academa.ai/",
       "source": "Hacker News"
     }
   ]
