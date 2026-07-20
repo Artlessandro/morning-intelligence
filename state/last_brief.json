@@ -1,29 +1,29 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "top_stories": [
     {
-      "title": "Transcribe.cpp",
-      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+      "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+      "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
       "source": "Hacker News"
     },
     {
-      "title": "AI Mania Is Eviscerating Global Decision-Making",
-      "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
+      "title": "Power companies are using eminent domain to seize land for data centers",
+      "url": "https://fortune.com/2026/07/19/data-center-eminent-domain-public-use/",
       "source": "Hacker News"
     },
     {
-      "title": "Better and Cheaper Than IPTV",
-      "url": "https://github.com/stupside/castor",
+      "title": "Big Tech Is Now Targeting Native American Land for Data Centers",
+      "url": "https://www.nytimes.com/2026/07/09/us/data-centers-native-american-tribes.html",
       "source": "Hacker News"
     },
     {
-      "title": "FDA approves new kind of cholesterol pill",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol",
+      "title": "Delete Your Data with Drop",
+      "url": "https://privacy.ca.gov/",
       "source": "Hacker News"
     },
     {
-      "title": "LLM-Integrated Multivariable Calculus Course",
-      "url": "https://calculus.academa.ai/",
+      "title": "US health agency says cyclospora finding at produce company was false positive",
+      "url": "https://www.cbc.ca/news/world/cyclospora-false-positive-taylor-farms-9.7276107",
       "source": "Hacker News"
     }
   ]
