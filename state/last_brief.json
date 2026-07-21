@@ -1,29 +1,29 @@
 {
-  "date": "2026-07-20",
+  "date": "2026-07-21",
   "top_stories": [
     {
-      "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
-      "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+      "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+      "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
       "source": "Hacker News"
     },
     {
-      "title": "Power companies are using eminent domain to seize land for data centers",
-      "url": "https://fortune.com/2026/07/19/data-center-eminent-domain-public-use/",
+      "title": "Is surveillance risk chilling your online speech?",
+      "url": "https://news.ycombinator.com/item?id=48987634",
       "source": "Hacker News"
     },
     {
-      "title": "Big Tech Is Now Targeting Native American Land for Data Centers",
-      "url": "https://www.nytimes.com/2026/07/09/us/data-centers-native-american-tribes.html",
+      "title": "Jane Street: Incremental",
+      "url": "https://github.com/janestreet/incremental",
       "source": "Hacker News"
     },
     {
-      "title": "Delete Your Data with Drop",
-      "url": "https://privacy.ca.gov/",
+      "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
+      "url": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
       "source": "Hacker News"
     },
     {
-      "title": "US health agency says cyclospora finding at produce company was false positive",
-      "url": "https://www.cbc.ca/news/world/cyclospora-false-positive-taylor-farms-9.7276107",
+      "title": "Running Doom on Our Custom CPU and Going Viral",
+      "url": "https://www.armaangomes.com/blogs/doom/",
       "source": "Hacker News"
     }
   ]
