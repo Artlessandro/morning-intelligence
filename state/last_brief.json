@@ -1,29 +1,29 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-07-22",
   "top_stories": [
     {
-      "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-      "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+      "title": "Late.sh – a command-line Clubhouse for computer people",
+      "url": "https://late.sh/",
       "source": "Hacker News"
     },
     {
-      "title": "Is surveillance risk chilling your online speech?",
-      "url": "https://news.ycombinator.com/item?id=48987634",
+      "title": "The AI Bubble Is No Ordinary Bubble",
+      "url": "https://www.theatlantic.com/ideas/2026/07/ai-economy-stock-market/688004/",
       "source": "Hacker News"
     },
     {
-      "title": "Jane Street: Incremental",
-      "url": "https://github.com/janestreet/incremental",
+      "title": "Déjà View: Someone already tried this",
+      "url": "https://dejaview.bsct.so/",
       "source": "Hacker News"
     },
     {
-      "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
-      "url": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
+      "title": "Nanbeige4.2-3B",
+      "url": "https://huggingface.co/Nanbeige/Nanbeige4.2-3B",
       "source": "Hacker News"
     },
     {
-      "title": "Running Doom on Our Custom CPU and Going Viral",
-      "url": "https://www.armaangomes.com/blogs/doom/",
+      "title": "Yubikey 5.8",
+      "url": "https://www.yubico.com/press-releases/yubico-extends-passkeys-beyond-trusted-authentication-to-verified-authorization-with-launch-of-yubikey-5-8/",
       "source": "Hacker News"
     }
   ]
