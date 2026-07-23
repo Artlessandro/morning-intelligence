@@ -1,29 +1,29 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "top_stories": [
     {
-      "title": "Late.sh – a command-line Clubhouse for computer people",
-      "url": "https://late.sh/",
+      "title": "Restructuring GitHub's bug bounty program",
+      "url": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
       "source": "Hacker News"
     },
     {
-      "title": "The AI Bubble Is No Ordinary Bubble",
-      "url": "https://www.theatlantic.com/ideas/2026/07/ai-economy-stock-market/688004/",
+      "title": "Taxfloridabillionaires.com",
+      "url": "https://taxfloridabillionaires.com",
       "source": "Hacker News"
     },
     {
-      "title": "Déjà View: Someone already tried this",
-      "url": "https://dejaview.bsct.so/",
+      "title": "Each Day the US Weakens Itself",
+      "url": "https://phillipspobrien.substack.com/p/midweek-update-20-each-day-the-us",
       "source": "Hacker News"
     },
     {
-      "title": "Nanbeige4.2-3B",
-      "url": "https://huggingface.co/Nanbeige/Nanbeige4.2-3B",
+      "title": "Testty: E2E Testing for TUI Apps",
+      "url": "https://github.com/agentty-xyz/agentty/tree/main/crates/testty",
       "source": "Hacker News"
     },
     {
-      "title": "Yubikey 5.8",
-      "url": "https://www.yubico.com/press-releases/yubico-extends-passkeys-beyond-trusted-authentication-to-verified-authorization-with-launch-of-yubikey-5-8/",
+      "title": "Why the OpenAI escape is the most worrying AI mishap yet",
+      "url": "https://www.economist.com/science-and-technology/2026/07/22/why-the-openai-escape-is-the-most-worrying-ai-mishap-yet",
       "source": "Hacker News"
     }
   ]
