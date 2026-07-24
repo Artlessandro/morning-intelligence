@@ -1,29 +1,29 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "top_stories": [
     {
-      "title": "Restructuring GitHub's bug bounty program",
-      "url": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
+      "title": "The Corporate Creep of Plex: Why it may be time to move to Jellyfin",
+      "url": "https://reprodev.com/the-corporate-creep-of-plex-why-it-may-be-time-to-move-to-jellyfin-and-the-open-source-reality/",
       "source": "Hacker News"
     },
     {
-      "title": "Taxfloridabillionaires.com",
-      "url": "https://taxfloridabillionaires.com",
+      "title": "Zuckerberg Emojis",
+      "url": "https://rybakov.com/blog/zuckerberg_emojis/",
       "source": "Hacker News"
     },
     {
-      "title": "Each Day the US Weakens Itself",
-      "url": "https://phillipspobrien.substack.com/p/midweek-update-20-each-day-the-us",
+      "title": "Asthma Control Before and After Changing Gas Stoves to Electric Stoves",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2213219826005374",
       "source": "Hacker News"
     },
     {
-      "title": "Testty: E2E Testing for TUI Apps",
-      "url": "https://github.com/agentty-xyz/agentty/tree/main/crates/testty",
+      "title": "Zitron: The Subprime Datacenter Crisis",
+      "url": "https://www.wheresyoured.at/the-subprime-data-center-crisis/",
       "source": "Hacker News"
     },
     {
-      "title": "Why the OpenAI escape is the most worrying AI mishap yet",
-      "url": "https://www.economist.com/science-and-technology/2026/07/22/why-the-openai-escape-is-the-most-worrying-ai-mishap-yet",
+      "title": "Elon Musk Melts Down over Perfectly Normal Questions in Wild New Interview",
+      "url": "https://gizmodo.com/elon-musk-economist-interview-2000790016",
       "source": "Hacker News"
     }
   ]
