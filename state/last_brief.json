@@ -1,29 +1,29 @@
 {
-  "date": "2026-07-25",
+  "date": "2026-07-26",
   "top_stories": [
     {
-      "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall",
-      "url": "https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc",
+      "title": "JetZero",
+      "url": "https://www.jetzero.aero",
       "source": "Hacker News"
     },
     {
-      "title": "US accuses American of allegedly wiping his phone during border search",
-      "url": "https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search/",
+      "title": "Show HN: I mapped every US golf course",
+      "url": "https://golfcoursebrowser.com/",
       "source": "Hacker News"
     },
     {
-      "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
-      "url": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
+      "title": "An ESP32 based plane radar for my desk",
+      "url": "https://blog.ktz.me/esp32-plane-radar/",
       "source": "Hacker News"
     },
     {
-      "title": "Opposing ICE Might Save the Country. It Could Also Ruin Your Life",
-      "url": "https://www.wired.com/story/opposing-ice-might-save-the-country-could-also-ruin-your-life/",
+      "title": "Humans haven't stopped evolving",
+      "url": "https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure",
       "source": "Hacker News"
     },
     {
-      "title": "The universe isn't random – it's something stranger – Stephen Wolfram [video]",
-      "url": "https://www.youtube.com/watch?v=U8Omt6K8OnM",
+      "title": "Possible invasive species superspreader event near Strait of Hormuz",
+      "url": "https://abcnews.com/International/scientists-warn-invasive-species-superspreader-event-due-stalling/story?id=135051186",
       "source": "Hacker News"
     }
   ]
