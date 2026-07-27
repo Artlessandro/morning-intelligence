@@ -1,29 +1,29 @@
 {
-  "date": "2026-07-26",
+  "date": "2026-07-27",
   "top_stories": [
     {
-      "title": "JetZero",
-      "url": "https://www.jetzero.aero",
+      "title": "Sand battery: Finland's answer to a renewable energy headache",
+      "url": "https://www.cnbc.com/2026/07/25/finland-sand-battery-renewable-energy-storage.html",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: I mapped every US golf course",
-      "url": "https://golfcoursebrowser.com/",
+      "title": "Verisign Cooperative Agreement",
+      "url": "https://www.ntia.gov/program/verisign-cooperative-agreement",
       "source": "Hacker News"
     },
     {
-      "title": "An ESP32 based plane radar for my desk",
-      "url": "https://blog.ktz.me/esp32-plane-radar/",
+      "title": "Nvidia in Talks with OpenAI to Guarantee $250B Financing for Data Center",
+      "url": "https://www.wsj.com/tech/ai/nvidia-in-talks-with-openai-to-guarantee-250-billion-financing-for-data-center-3dd6eae3",
       "source": "Hacker News"
     },
     {
-      "title": "Humans haven't stopped evolving",
-      "url": "https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure",
+      "title": "Tell HN: Leaving your country is your only real leverage",
+      "url": "https://news.ycombinator.com/item?id=49065291",
       "source": "Hacker News"
     },
     {
-      "title": "Possible invasive species superspreader event near Strait of Hormuz",
-      "url": "https://abcnews.com/International/scientists-warn-invasive-species-superspreader-event-due-stalling/story?id=135051186",
+      "title": "Foxconn drops VMware, adopts hyperconverged upstart Arcrfra",
+      "url": "https://www.theregister.com/virtualization/2026/07/27/foxconn-drops-vmware-adopts-hyperconverged-upstart-arcrfra-for-workloads-including-ai/5278684",
       "source": "Hacker News"
     }
   ]
