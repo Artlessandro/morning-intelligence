@@ -1,29 +1,29 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "top_stories": [
     {
-      "title": "Sand battery: Finland's answer to a renewable energy headache",
-      "url": "https://www.cnbc.com/2026/07/25/finland-sand-battery-renewable-energy-storage.html",
+      "title": "Using an open model feels surprisingly good",
+      "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
       "source": "Hacker News"
     },
     {
-      "title": "Verisign Cooperative Agreement",
-      "url": "https://www.ntia.gov/program/verisign-cooperative-agreement",
+      "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+      "url": "https://fermisense.com/when-machines-take-the-wheel/",
       "source": "Hacker News"
     },
     {
-      "title": "Nvidia in Talks with OpenAI to Guarantee $250B Financing for Data Center",
-      "url": "https://www.wsj.com/tech/ai/nvidia-in-talks-with-openai-to-guarantee-250-billion-financing-for-data-center-3dd6eae3",
+      "title": "EYG: A Programming Language for Humans",
+      "url": "https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/",
       "source": "Hacker News"
     },
     {
-      "title": "Tell HN: Leaving your country is your only real leverage",
-      "url": "https://news.ycombinator.com/item?id=49065291",
+      "title": "Internet is no longer accessible?",
+      "url": "https://news.ycombinator.com/item?id=49078318",
       "source": "Hacker News"
     },
     {
-      "title": "Foxconn drops VMware, adopts hyperconverged upstart Arcrfra",
-      "url": "https://www.theregister.com/virtualization/2026/07/27/foxconn-drops-vmware-adopts-hyperconverged-upstart-arcrfra-for-workloads-including-ai/5278684",
+      "title": "An Uncomplicated Man",
+      "url": "https://www.lrb.co.uk/the-paper/v48/n14/emily-wilson/an-uncomplicated-man",
       "source": "Hacker News"
     }
   ]
