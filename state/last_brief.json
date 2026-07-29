@@ -1,29 +1,29 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "top_stories": [
     {
-      "title": "Using an open model feels surprisingly good",
-      "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
+      "title": "Hooray for the Sockets Interface",
+      "url": "https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/",
       "source": "Hacker News"
     },
     {
-      "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
-      "url": "https://fermisense.com/when-machines-take-the-wheel/",
+      "title": "You don't have to be smart if you can think clearly",
+      "url": "https://www.seangoedecke.com/you-dont-have-to-be-smart-if-you-think-clearly/",
       "source": "Hacker News"
     },
     {
-      "title": "EYG: A Programming Language for Humans",
-      "url": "https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/",
+      "title": "Israel Is Paying Millions to Train AI Chatbots How to Talk About Gaza",
+      "url": "https://www.dropsitenews.com/p/israel-brad-parscale-ai-chatbots-gaza",
       "source": "Hacker News"
     },
     {
-      "title": "Internet is no longer accessible?",
-      "url": "https://news.ycombinator.com/item?id=49078318",
+      "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
+      "url": "https://transformer-transformer.github.io/",
       "source": "Hacker News"
     },
     {
-      "title": "An Uncomplicated Man",
-      "url": "https://www.lrb.co.uk/the-paper/v48/n14/emily-wilson/an-uncomplicated-man",
+      "title": "FCC bans foreign-produced solar inverters, grid lockout begins today",
+      "url": "https://pv-magazine-usa.com/2026/07/28/fcc-bans-foreign-produced-solar-inverters-grid-lockout-begins-today/",
       "source": "Hacker News"
     }
   ]
