@@ -1,29 +1,29 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "top_stories": [
     {
-      "title": "Hooray for the Sockets Interface",
-      "url": "https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/",
+      "title": "NSF pilots 4-year PhDs with industry research placements",
+      "url": "https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four",
       "source": "Hacker News"
     },
     {
-      "title": "You don't have to be smart if you can think clearly",
-      "url": "https://www.seangoedecke.com/you-dont-have-to-be-smart-if-you-think-clearly/",
+      "title": "Kuna: Decompiler Development in the Age of Coding Agents",
+      "url": "https://noelo.org/blog/kuna-release/",
       "source": "Hacker News"
     },
     {
-      "title": "Israel Is Paying Millions to Train AI Chatbots How to Talk About Gaza",
-      "url": "https://www.dropsitenews.com/p/israel-brad-parscale-ai-chatbots-gaza",
+      "title": "Scientists find a simple way to stop cavities without drilling",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260729010719.htm",
       "source": "Hacker News"
     },
     {
-      "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
-      "url": "https://transformer-transformer.github.io/",
+      "title": "xAI sues Minnesota over its law banning 'nudification' technology",
+      "url": "https://apnews.com/article/minnesota-artificial-intelligence-nudification-x-elon-musk-deepfake-131184be939d540de093b567b12c9e16",
       "source": "Hacker News"
     },
     {
-      "title": "FCC bans foreign-produced solar inverters, grid lockout begins today",
-      "url": "https://pv-magazine-usa.com/2026/07/28/fcc-bans-foreign-produced-solar-inverters-grid-lockout-begins-today/",
+      "title": "After rewriting SQLite in Rust, Turso turns its sights on Postgres",
+      "url": "https://www.theregister.com/databases/2026/07/29/after-rewriting-sqlite-in-rust-turso-turns-its-sights-on-postgres/5279835",
       "source": "Hacker News"
     }
   ]
