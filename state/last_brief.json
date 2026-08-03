@@ -1,29 +1,29 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-03",
   "top_stories": [
     {
-      "title": "Go 1.27 Interactive Tour",
-      "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+      "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+      "url": "https://qwen.ai/blog?id=qwen3.8",
       "source": "Hacker News"
     },
     {
-      "title": "Plug-in solar is coming. Plug-in batteries should follow",
-      "url": "https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow",
+      "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+      "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
-      "url": "https://github.com/tom-ilan/cycloidal_gearbox",
+      "title": "Apple engineer says he was fired after refusing to send cust. device IDs to AT&T",
+      "url": "https://runtimewire.com/article/exclusive-apple-engineer-says-he-was-fired-after-refusing-to-send-customer-devic",
       "source": "Hacker News"
     },
     {
-      "title": "Linux desktop market share has hit over 10% in North America",
-      "url": "https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/",
+      "title": "Qwen 3.8 Max Live Now",
+      "url": "https://www.qwencloud.com/models/qwen3.8-max",
       "source": "Hacker News"
     },
     {
-      "title": "The teenage hitmen recruited to kill across Europe",
-      "url": "https://www.bbc.com/news/articles/czrjyevmv61o",
+      "title": "AI migrated legacy COBOL programs to Java, bugs included",
+      "url": "https://arxiv.org/abs/2607.28271",
       "source": "Hacker News"
     }
   ]
