@@ -1,29 +1,29 @@
 {
-  "date": "2026-08-03",
+  "date": "2026-08-04",
   "top_stories": [
     {
-      "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-      "url": "https://qwen.ai/blog?id=qwen3.8",
+      "title": "Native Apps Should Be Avoided Whenever Possible",
+      "url": "https://nooneshappy.com/article/native-apps-should-be-avoided-whenever-possible/",
       "source": "Hacker News"
     },
     {
-      "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-      "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
+      "title": "Telegram Removed from App Store",
+      "url": "https://apps.apple.com/us/app/telegram-messenger/id686449807",
       "source": "Hacker News"
     },
     {
-      "title": "Apple engineer says he was fired after refusing to send cust. device IDs to AT&T",
-      "url": "https://runtimewire.com/article/exclusive-apple-engineer-says-he-was-fired-after-refusing-to-send-customer-devic",
+      "title": "Telegram says app restored on Apple's App Store",
+      "url": "https://www.reuters.com/business/retail-consumer/telegram-says-app-restored-apples-app-store-2026-08-04/",
       "source": "Hacker News"
     },
     {
-      "title": "Qwen 3.8 Max Live Now",
-      "url": "https://www.qwencloud.com/models/qwen3.8-max",
+      "title": "BYOC Is Not Just 'Deploy into Their Cloud'",
+      "url": "https://omnistrate.com/blog/byoc-anywhere-the-spectrum-of-bring-your-own-cloud-deployments",
       "source": "Hacker News"
     },
     {
-      "title": "AI migrated legacy COBOL programs to Java, bugs included",
-      "url": "https://arxiv.org/abs/2607.28271",
+      "title": "AI Is Breaking the SaaS Deployment Model: 10 Commandments for BYOC",
+      "url": "https://byocanywhere.org/",
       "source": "Hacker News"
     }
   ]
