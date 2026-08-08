@@ -1,29 +1,29 @@
 {
-  "date": "2026-08-07",
+  "date": "2026-08-08",
   "top_stories": [
     {
-      "title": "Framework Data Breach",
-      "url": "https://www.reddit.com/r/LinusTechTips/comments/1vhjbok/framework_data_breach/",
+      "title": "The Nixpkgs core team has disbanded",
+      "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
       "source": "Hacker News"
     },
     {
-      "title": "The old world is dying",
-      "url": "https://jasmi.news/p/2026-advice",
+      "title": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
+      "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
       "source": "Hacker News"
     },
     {
-      "title": "Lines of code. 1,596 BTC gone",
-      "url": "https://onekey.so/anzen/coldcard-entropy-failure/",
+      "title": "Should AI labs be treated like the owners of dangerous animals?",
+      "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
       "source": "Hacker News"
     },
     {
-      "title": "Xcode's Clever Minimap",
-      "url": "https://unsung.aresluna.org/xcodes-clever-minimap/",
+      "title": "Trumpists' assault on science isn't just harming America – it's harming them",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/07/trump-scientific-research-universities",
       "source": "Hacker News"
     },
     {
-      "title": "Improving Fable 5 Safeguards",
-      "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+      "title": "Trump administration has spent nearly $4B to cancel offshore wind farms",
+      "url": "https://techcrunch.com/2026/08/07/trump-administration-has-spent-nearly-4b-to-cancel-offshore-wind-farms/",
       "source": "Hacker News"
     }
   ]
