@@ -1,29 +1,29 @@
 {
-  "date": "2026-08-09",
+  "date": "2026-08-10",
   "top_stories": [
     {
-      "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
-      "url": "https://os8088.com/",
+      "title": "What Happened to HackerOne?",
+      "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
       "source": "Hacker News"
     },
     {
-      "title": "Dithered QR Codes",
-      "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
+      "title": "Japanese court overturns Red RAW video patent",
+      "url": "https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/",
       "source": "Hacker News"
     },
     {
-      "title": "Depression has tripled in the last 15 years. Arthur Brooks about the cause",
-      "url": "https://bigthink.com/series/full-interview/meaning-crisis-brooks/",
+      "title": "How We Pushed CDC into Postgres",
+      "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
       "source": "Hacker News"
     },
     {
-      "title": "The AI Apocalypse Is Here",
-      "url": "https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/",
+      "title": "Blender MCP maintainer GitHub account hacked",
+      "url": "https://twitter.com/sidahuj/status/2086445625147793503",
       "source": "Hacker News"
     },
     {
-      "title": "Title 7 Disparate Impact Liability Makes Almost Everything Presumptively Illegal",
-      "url": "https://www.nyujll.com/volume-14/title-vii-disparate-impact-liability-makes-almost-everything-presumptively-illegal",
+      "title": "America's Military Is Dangerously Exposed",
+      "url": "https://www.wsj.com/opinion/americas-military-is-dangerously-exposed-26706217",
       "source": "Hacker News"
     }
   ]
