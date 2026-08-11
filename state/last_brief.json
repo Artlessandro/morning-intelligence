@@ -1,29 +1,29 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "top_stories": [
     {
-      "title": "What Happened to HackerOne?",
-      "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
+      "title": "Chicken Scheme 6.0",
+      "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
       "source": "Hacker News"
     },
     {
-      "title": "Japanese court overturns Red RAW video patent",
-      "url": "https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/",
+      "title": "Antirez/h3.c: MiniMax H3 inference engine for Mac computers",
+      "url": "https://github.com/antirez/h3.c",
       "source": "Hacker News"
     },
     {
-      "title": "How We Pushed CDC into Postgres",
-      "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
+      "title": "Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don't",
+      "url": "https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html",
       "source": "Hacker News"
     },
     {
-      "title": "Blender MCP maintainer GitHub account hacked",
-      "url": "https://twitter.com/sidahuj/status/2086445625147793503",
+      "title": "Gulf States Accept a New Normal in Hormuz: Iran Is in Control",
+      "url": "https://www.wsj.com/world/middle-east/gulf-states-accept-a-new-normal-in-hormuz-iran-is-in-control-6db8908d",
       "source": "Hacker News"
     },
     {
-      "title": "America's Military Is Dangerously Exposed",
-      "url": "https://www.wsj.com/opinion/americas-military-is-dangerously-exposed-26706217",
+      "title": "Recycle – Floppydisks",
+      "url": "https://www.floppydisk.com/recycle",
       "source": "Hacker News"
     }
   ]
