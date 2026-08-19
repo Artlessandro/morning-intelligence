@@ -1,29 +1,29 @@
 {
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "top_stories": [
     {
-      "title": "Ask HN: Does anyone else feel like nothing matters anymore?",
-      "url": "https://news.ycombinator.com/item?id=49340013",
+      "title": "New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]",
+      "url": "https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf",
       "source": "Hacker News"
     },
     {
-      "title": "PM Carney announces largest clean energy investment in North American history",
-      "url": "https://www.pm.gc.ca/en/news/news-releases/2026/08/17/prime-minister-carney-announces-largest-clean-energy-investment-north",
+      "title": "Cerebras CS-4",
+      "url": "https://www.cerebras.ai/cs4",
       "source": "Hacker News"
     },
     {
-      "title": "Cursor Origin",
-      "url": "https://cursor.com/docs/origin",
+      "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
+      "url": "https://www.bbc.com/news/articles/c1l1r1zne1ro",
       "source": "Hacker News"
     },
     {
-      "title": "Google wins bankruptcy auction for Spirit Airlines emails, chats, documents",
-      "url": "https://www.axios.com/2026/08/17/google-spirit-airlines-bankruptcy",
+      "title": "Why crypto's best infrastructure companies stopped looking like crypto?",
+      "url": "https://konstantintkachuk.com/writing/depin-is-dead-long-live-infrastructure-as-a-service/",
       "source": "Hacker News"
     },
     {
-      "title": "Repair Cafe – Fix Your Broken Items",
-      "url": "https://www.repaircafe.org/",
+      "title": "The Integer",
+      "url": "https://gist.github.com/17twenty/1f230ab8256f42d4cd3ba931b9bd440b",
       "source": "Hacker News"
     }
   ]
