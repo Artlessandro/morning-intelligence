@@ -1,29 +1,29 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "top_stories": [
     {
-      "title": "New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]",
-      "url": "https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf",
+      "title": "Raiders of the Lost Array: vibe-coding a macOS driver for my orphaned Drobo",
+      "url": "https://fetzu.ch/blog/20260819_claudevsdrobo/",
       "source": "Hacker News"
     },
     {
-      "title": "Cerebras CS-4",
-      "url": "https://www.cerebras.ai/cs4",
+      "title": "The Debt That Apple Owes to the CIA",
+      "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9",
       "source": "Hacker News"
     },
     {
-      "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
-      "url": "https://www.bbc.com/news/articles/c1l1r1zne1ro",
+      "title": "Turns are Better than Radians",
+      "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
       "source": "Hacker News"
     },
     {
-      "title": "Why crypto's best infrastructure companies stopped looking like crypto?",
-      "url": "https://konstantintkachuk.com/writing/depin-is-dead-long-live-infrastructure-as-a-service/",
+      "title": "Chinese firms are wrapping their supply chains around the globe",
+      "url": "https://www.economist.com/interactive/business/2026/08/19/chinese-firms-are-wrapping-their-supply-chains-around-the-globe",
       "source": "Hacker News"
     },
     {
-      "title": "The Integer",
-      "url": "https://gist.github.com/17twenty/1f230ab8256f42d4cd3ba931b9bd440b",
+      "title": "Call-buying near Trump's Hyperliquid comments shows some eyebrow-raising trades",
+      "url": "https://www.msn.com/en-us/money/economy/call-buying-bonanza-around-trump-s-hyperliquid-comments-includes-some-eyebrow-raising-trades/ar-AA2avTM9",
       "source": "Hacker News"
     }
   ]
