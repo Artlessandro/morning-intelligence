@@ -1,29 +1,29 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "top_stories": [
     {
-      "title": "There's no reason for software to be slow anymore",
-      "url": "https://danluu.com/perf-opt/",
+      "title": "US Military newspaper editor voices censorship fears after being fired",
+      "url": "https://www.bbc.com/news/articles/cm2g23ng8p4o",
       "source": "Hacker News"
     },
     {
-      "title": "Ask HN: Just saw a YC25 job posting front page that looks like a 7-day work week",
-      "url": "https://news.ycombinator.com/item?id=49395700",
+      "title": "AI has failed to win people's trust. Its makers? less trusted",
+      "url": "https://www.euronews.com/next/2026/08/20/ai-has-failed-to-win-peoples-trust-its-makers-even-less-trusted",
       "source": "Hacker News"
     },
     {
-      "title": "HN: The Good Parts (2016)",
-      "url": "https://danluu.com/hn-comments/",
+      "title": "Software Engineering in the Agentic Era",
+      "url": "https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/",
       "source": "Hacker News"
     },
     {
-      "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
-      "url": "https://grapheneos.social/@GrapheneOS/117136278553665985",
+      "title": "A heart surgeon's confession: it was never the cholesterol",
+      "url": "https://twitter.com/robertlufkinmd/status/2091265696076624301",
       "source": "Hacker News"
     },
     {
-      "title": "OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%",
-      "url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21/",
+      "title": "Don't ask me my f*#&ing name",
+      "url": "https://runninganddancing.substack.com/p/dont-ask-me-my-f-and-ing-name",
       "source": "Hacker News"
     }
   ]
