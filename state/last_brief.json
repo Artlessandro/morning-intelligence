@@ -1,29 +1,29 @@
 {
-  "date": "2026-08-23",
+  "date": "2026-08-24",
   "top_stories": [
     {
-      "title": "US Military newspaper editor voices censorship fears after being fired",
-      "url": "https://www.bbc.com/news/articles/cm2g23ng8p4o",
+      "title": "Wrong antibody used in over 50 cell aging studies",
+      "url": "https://www.nature.com/articles/d41586-026-02352-4",
       "source": "Hacker News"
     },
     {
-      "title": "AI has failed to win people's trust. Its makers? less trusted",
-      "url": "https://www.euronews.com/next/2026/08/20/ai-has-failed-to-win-peoples-trust-its-makers-even-less-trusted",
+      "title": "Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel",
+      "url": "https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps",
       "source": "Hacker News"
     },
     {
-      "title": "Software Engineering in the Agentic Era",
-      "url": "https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/",
+      "title": "YouTube sued over ads in Premium: YouTube claims \"promotions\" are not \"ads\" [video]",
+      "url": "https://www.youtube.com/watch?v=oxg7AHYeSBk",
       "source": "Hacker News"
     },
     {
-      "title": "A heart surgeon's confession: it was never the cholesterol",
-      "url": "https://twitter.com/robertlufkinmd/status/2091265696076624301",
+      "title": "Former OC actor Ben McKenzie on crusade to take down 'stupid' cryptocurrency",
+      "url": "https://www.rnz.co.nz/life/people/celebrity/former-oc-actor-ben-mckenzie-on-crusade-to-take-down-stupid-cryptocurrency",
       "source": "Hacker News"
     },
     {
-      "title": "Don't ask me my f*#&ing name",
-      "url": "https://runninganddancing.substack.com/p/dont-ask-me-my-f-and-ing-name",
+      "title": "Twitch and Amazon hit with lawsuit for training AI with streamers' content",
+      "url": "https://www.engadget.com/2242283/twitch-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content/",
       "source": "Hacker News"
     }
   ]
