@@ -1,29 +1,29 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "top_stories": [
     {
-      "title": "A 12TB Steam \"teraleak\" spills more than a decade of lost PC gaming history",
-      "url": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
+      "title": "AI Can Make You Suck Faster Too",
+      "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
       "source": "Hacker News"
     },
     {
-      "title": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
-      "url": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails",
+      "title": "Vermell – Minimal, dependency-free C++ web framework using epoll",
+      "url": "https://github.com/vermellcc/vermell",
       "source": "Hacker News"
     },
     {
-      "title": "Claude Code reduces it's weekly limit by 17% – compared to today",
-      "url": "https://twitter.com/ClaudeDevs/status/2093742322525810912",
+      "title": "Building Without Predicting",
+      "url": "https://sive.rs/fit",
       "source": "Hacker News"
     },
     {
-      "title": "Trump demands Canadian companies doing business with USA move there immediately",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-canada-businesses-truth-social-b3041901.html",
+      "title": "What Happened to Yoga?",
+      "url": "https://www.theatlantic.com/culture/2026/08/yoga-america-culture-decline/688461/",
       "source": "Hacker News"
     },
     {
-      "title": "I Didn't Set a Cookie",
-      "url": "https://belibre.be/cookies/",
+      "title": "Chinese court freezes $300M of Dutch chipmaker Nexperia assets in Wingtech case",
+      "url": "https://www.reuters.com/world/asia-pacific/chinese-court-freezes-dutch-chipmaker-nexperia-bvs-stakes-four-china-units-2026-08-31/",
       "source": "Hacker News"
     }
   ]
