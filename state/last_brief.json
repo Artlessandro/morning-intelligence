@@ -1,29 +1,29 @@
 {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "top_stories": [
     {
-      "title": "AI Can Make You Suck Faster Too",
-      "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+      "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
+      "url": "https://arxiv.org/abs/2608.29530",
       "source": "Hacker News"
     },
     {
-      "title": "Vermell – Minimal, dependency-free C++ web framework using epoll",
-      "url": "https://github.com/vermellcc/vermell",
+      "title": "WebFPGA",
+      "url": "https://webfpga.io/",
       "source": "Hacker News"
     },
     {
-      "title": "Building Without Predicting",
-      "url": "https://sive.rs/fit",
+      "title": "Games look real now. We're in the future",
+      "url": "https://twitter.com/r00t404t/status/2094871766304751799",
       "source": "Hacker News"
     },
     {
-      "title": "What Happened to Yoga?",
-      "url": "https://www.theatlantic.com/culture/2026/08/yoga-america-culture-decline/688461/",
+      "title": "GoPro Is Being Bought for $285M and Pivoting to AI and Defense Optics",
+      "url": "https://fstoppers.com/gear/gopro-being-bought-285-million-and-pivoting-ai-and-defense-optics-904434",
       "source": "Hacker News"
     },
     {
-      "title": "Chinese court freezes $300M of Dutch chipmaker Nexperia assets in Wingtech case",
-      "url": "https://www.reuters.com/world/asia-pacific/chinese-court-freezes-dutch-chipmaker-nexperia-bvs-stakes-four-china-units-2026-08-31/",
+      "title": "Shingles vaccine linked to lower risk of heart attack and stroke, study finds",
+      "url": "https://www.theguardian.com/science/2026/aug/26/shingles-vaccine-lower-risk-heart-attack-stroke-study",
       "source": "Hacker News"
     }
   ]
