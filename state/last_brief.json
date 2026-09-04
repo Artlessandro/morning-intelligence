@@ -1,29 +1,29 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "top_stories": [
     {
-      "title": "Dutch central bank moves 86 tonnes of gold from US citing 'geopolitical unrest'",
-      "url": "https://www.theguardian.com/world/2026/sep/03/netherlands-gold-dutch-central-bank-uk-us-and-canada-geopolitical-unrest",
+      "title": "Grep beats LSP? Why coding agents ignore your fancier tools",
+      "url": "https://www.agentconnect.md/blog/grep-beat-lsp-harness/",
       "source": "Hacker News"
     },
     {
-      "title": "Ask HN: Advice on Migrating from 1Password?",
-      "url": "https://news.ycombinator.com/item?id=49546432",
+      "title": "Hugging Face open-sources Funes, a local-first memory layer for coding agents",
+      "url": "https://huggingface.co/blog/funes",
       "source": "Hacker News"
     },
     {
-      "title": "SF's Tech Right Debates the Ideal Dictator",
-      "url": "https://bayareacurrent.com/sfs-tech-caesar/",
+      "title": "Chinese Espionage Threat: Suspected Spy Drone Caught over Sensitive U.S. Missile",
+      "url": "https://www.theyeshivaworld.com/news/general/2592346/chinese-espionage-threat-suspected-spy-drone-caught-over-sensitive-u-s-missile-base.html",
       "source": "Hacker News"
     },
     {
-      "title": "Uber to cut over 3k jobs in major global restructuring",
-      "url": "https://www.bbc.com/news/articles/cp3ky2w4y9no",
+      "title": "UN to vote on adopting new world map that shows Africa's true scale",
+      "url": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
       "source": "Hacker News"
     },
     {
-      "title": "The humanoid robots cleaning homes for $30 an hour",
-      "url": "https://www.nbcnews.com/video/humanoid-robots-cleaning-homes-for-30-an-hour-269041733517",
+      "title": "US diesel prices hit record high as conflicts intensify supply crunch",
+      "url": "https://www.reuters.com/business/energy/us-diesel-hits-record-5820-gallon-gasbuddy-says-2026-09-03/",
       "source": "Hacker News"
     }
   ]
