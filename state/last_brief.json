@@ -1,29 +1,29 @@
 {
-  "date": "2026-09-05",
+  "date": "2026-09-06",
   "top_stories": [
     {
-      "title": "Why are European countries moving their gold out of North America?",
-      "url": "https://www.bbc.com/news/articles/cvgyn8q8gqxo",
+      "title": "Vancouver strip club's Instagram taken down over sign featuring lake joke",
+      "url": "https://www.vancouverisawesome.com/local-news/vancouver-strip-club-instagram-taken-down-sign-calls-out-trump-12725993",
       "source": "Hacker News"
     },
     {
-      "title": "Waymo racked up 8,300 SF parking tickets and nearly $1M in fines",
-      "url": "https://electrek.co/2026/09/02/waymo-san-francisco-parking-tickets/",
+      "title": "Greenland forces Trump's US oil firm to delay drilling",
+      "url": "https://www.theguardian.com/world/2026/aug/12/trump-greenland-oil",
       "source": "Hacker News"
     },
     {
-      "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
-      "url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
+      "title": "Using Blender with coding agents on macOS",
+      "url": "https://til.simonwillison.net/llms/blender-coding-agents-macos",
       "source": "Hacker News"
     },
     {
-      "title": "New Zealand is determined not to keep China's espionage a secret",
-      "url": "https://www.lowyinstitute.org/the-interpreter/new-zealand-is-determined-not-to-keep-china-s-espionage-a-secret",
+      "title": "A volunteer stopped a backdoor from exposing Linux systems worldwide (2024)",
+      "url": "https://www.theverge.com/2024/4/2/24119342/xz-utils-linux-backdoor-attempt",
       "source": "Hacker News"
     },
     {
-      "title": "Starcraft website \"glitching\" foreshadows announcement",
-      "url": "https://twitter.com/ZergGirl/status/2095909545940013089",
+      "title": "Clean up your Android TV",
+      "url": "https://tv.cobanov.dev/",
       "source": "Hacker News"
     }
   ]
