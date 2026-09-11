@@ -1,29 +1,29 @@
 {
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "top_stories": [
     {
-      "title": "OpenAI might have stolen another major proof",
-      "url": "https://twitter.com/ValerioCapraro/status/2097791836269977996",
+      "title": "Astra for Coding: Why Are We Doing This Again?",
+      "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
       "source": "Hacker News"
     },
     {
-      "title": "All grown-ups were once children… but only few of them remember it",
-      "url": "https://mathstodon.xyz/@tao/117244102901892965",
+      "title": "The Gemini app is now available for Windows",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
       "source": "Hacker News"
     },
     {
-      "title": "OpenAI have no mathematicians capable of understanding what they put out",
-      "url": "https://mastodon.social/@tristanbuckmaster/117237555794407063",
+      "title": "We Replaced MMAP with Io_uring in Our Rust Query Engine. It Got Slower",
+      "url": "https://www.conviva.ai/resource/we-replaced-mmap-with-io_uring-in-our-rust-query-engine-it-got-slower/",
       "source": "Hacker News"
     },
     {
-      "title": "DeepSeek v4.1 Flash",
-      "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+      "title": "Haiku Now Supports Changing Audio Outputs Live, Other Improvements",
+      "url": "https://www.phoronix.com/news/Haiku-OS-August-2026",
       "source": "Hacker News"
     },
     {
-      "title": "Trump promises $5k dividend in convention speech, but only if Republicans win",
-      "url": "https://www.npr.org/2026/09/09/nx-s1-5961045/republican-midterm-convention-dallas-trump-vance",
+      "title": "Ask HN: What Can We Do?",
+      "url": "https://news.ycombinator.com/item?id=49653804",
       "source": "Hacker News"
     }
   ]
