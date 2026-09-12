@@ -1,29 +1,29 @@
 {
-  "date": "2026-09-11",
+  "date": "2026-09-12",
   "top_stories": [
     {
-      "title": "Astra for Coding: Why Are We Doing This Again?",
-      "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
+      "title": "google.com/goto: Google's anti-scraping update",
+      "url": "https://www.autom.dev/blog/google-search-goto-links",
       "source": "Hacker News"
     },
     {
-      "title": "The Gemini app is now available for Windows",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
+      "title": "Pandas Should Go Extinct",
+      "url": "https://eddie.codes/posts/pandas-should-go-extinct/",
       "source": "Hacker News"
     },
     {
-      "title": "We Replaced MMAP with Io_uring in Our Rust Query Engine. It Got Slower",
-      "url": "https://www.conviva.ai/resource/we-replaced-mmap-with-io_uring-in-our-rust-query-engine-it-got-slower/",
+      "title": "Google stole open source code without crediting the authors (Artemis/Minitap)",
+      "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
       "source": "Hacker News"
     },
     {
-      "title": "Haiku Now Supports Changing Audio Outputs Live, Other Improvements",
-      "url": "https://www.phoronix.com/news/Haiku-OS-August-2026",
+      "title": "Navier-Stokes Announcement",
+      "url": "https://www.claymath.org/news/navier-stokes-announcement/",
       "source": "Hacker News"
     },
     {
-      "title": "Ask HN: What Can We Do?",
-      "url": "https://news.ycombinator.com/item?id=49653804",
+      "title": "Usenet rewind archive search engine",
+      "url": "https://www.usenet-rewind.com/",
       "source": "Hacker News"
     }
   ]
