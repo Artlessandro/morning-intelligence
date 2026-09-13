@@ -1,29 +1,29 @@
 {
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "top_stories": [
     {
-      "title": "google.com/goto: Google's anti-scraping update",
-      "url": "https://www.autom.dev/blog/google-search-goto-links",
+      "title": "The Interim Computer Museum",
+      "url": "https://icm.museum/",
       "source": "Hacker News"
     },
     {
-      "title": "Pandas Should Go Extinct",
-      "url": "https://eddie.codes/posts/pandas-should-go-extinct/",
+      "title": "After Math",
+      "url": "https://terrytao.wordpress.com/2026/09/12/after-math/",
       "source": "Hacker News"
     },
     {
-      "title": "Google stole open source code without crediting the authors (Artemis/Minitap)",
-      "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+      "title": "Ask HN: How can DigitalOcean not afford $50, but can afford $3M to Omarchy?",
+      "url": "https://news.ycombinator.com/item?id=49679602",
       "source": "Hacker News"
     },
     {
-      "title": "Navier-Stokes Announcement",
-      "url": "https://www.claymath.org/news/navier-stokes-announcement/",
+      "title": "A succession crisis that tore England apart",
+      "url": "https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart",
       "source": "Hacker News"
     },
     {
-      "title": "Usenet rewind archive search engine",
-      "url": "https://www.usenet-rewind.com/",
+      "title": "Aligned to Whom?",
+      "url": "https://hyperbo.la/w/aligned-to-whom/",
       "source": "Hacker News"
     }
   ]
