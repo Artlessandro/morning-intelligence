@@ -1,29 +1,29 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "top_stories": [
     {
-      "title": "The Interim Computer Museum",
-      "url": "https://icm.museum/",
+      "title": "Who gets to define the rules for AI?",
+      "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
       "source": "Hacker News"
     },
     {
-      "title": "After Math",
-      "url": "https://terrytao.wordpress.com/2026/09/12/after-math/",
+      "title": "Airbnb Preventing the Use of BnB",
+      "url": "https://www.theguardian.com/technology/2026/sep/14/portland-bnb-airbnb-silicon-valley-legal-battle-festival",
       "source": "Hacker News"
     },
     {
-      "title": "Ask HN: How can DigitalOcean not afford $50, but can afford $3M to Omarchy?",
-      "url": "https://news.ycombinator.com/item?id=49679602",
+      "title": "Of Gods and Languages: On \"When God Spoke Greek\" (2013)",
+      "url": "https://lareviewofbooks.org/article/of-gods-and-languages-on-when-god-spoke-greek/",
       "source": "Hacker News"
     },
     {
-      "title": "A succession crisis that tore England apart",
-      "url": "https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart",
+      "title": "Ask HN: Do you worry about fires in AI datacenters?",
+      "url": "https://news.ycombinator.com/item?id=49692215",
       "source": "Hacker News"
     },
     {
-      "title": "Aligned to Whom?",
-      "url": "https://hyperbo.la/w/aligned-to-whom/",
+      "title": "Why big tech will hate the Australian tax office's latest ruling",
+      "url": "https://theconversation.com/why-big-tech-will-hate-the-australian-tax-offices-latest-ruling-291571",
       "source": "Hacker News"
     }
   ]
