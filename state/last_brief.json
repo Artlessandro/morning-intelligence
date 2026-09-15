@@ -1,29 +1,29 @@
 {
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "top_stories": [
     {
-      "title": "Who gets to define the rules for AI?",
-      "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
+      "title": "Linux from Scratch",
+      "url": "https://www.linuxfromscratch.org/",
       "source": "Hacker News"
     },
     {
-      "title": "Airbnb Preventing the Use of BnB",
-      "url": "https://www.theguardian.com/technology/2026/sep/14/portland-bnb-airbnb-silicon-valley-legal-battle-festival",
+      "title": "Supreme Court blocks Trump's plan to restrict mail-in ballots",
+      "url": "https://www.bbc.com/news/articles/c5yjpdy4gjlo",
       "source": "Hacker News"
     },
     {
-      "title": "Of Gods and Languages: On \"When God Spoke Greek\" (2013)",
-      "url": "https://lareviewofbooks.org/article/of-gods-and-languages-on-when-god-spoke-greek/",
+      "title": "Investors nervous about AI spending slowdown after industry warnings",
+      "url": "https://www.reuters.com/legal/transactional/investors-nervous-about-ai-spending-slowdown-after-industry-warnings-2026-09-15/",
       "source": "Hacker News"
     },
     {
-      "title": "Ask HN: Do you worry about fires in AI datacenters?",
-      "url": "https://news.ycombinator.com/item?id=49692215",
+      "title": "Show HN: The web is dead. Keep this app alive",
+      "url": "https://longlivethis.site",
       "source": "Hacker News"
     },
     {
-      "title": "Why big tech will hate the Australian tax office's latest ruling",
-      "url": "https://theconversation.com/why-big-tech-will-hate-the-australian-tax-offices-latest-ruling-291571",
+      "title": "See how well you know the sizes of things",
+      "url": "https://playdaily.org/size-it-up",
       "source": "Hacker News"
     }
   ]
