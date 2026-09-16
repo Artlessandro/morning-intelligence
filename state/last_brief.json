@@ -1,29 +1,29 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-16",
   "top_stories": [
     {
-      "title": "Linux from Scratch",
-      "url": "https://www.linuxfromscratch.org/",
+      "title": "Datamimic – don't let your coding agent invent its own test world",
+      "url": "https://github.com/rapiddweller/datamimic",
       "source": "Hacker News"
     },
     {
-      "title": "Supreme Court blocks Trump's plan to restrict mail-in ballots",
-      "url": "https://www.bbc.com/news/articles/c5yjpdy4gjlo",
+      "title": "The Apple IIGS was introduced 40 years ago today",
+      "url": "https://twitter.com/stlhood/status/2100080615924420913",
       "source": "Hacker News"
     },
     {
-      "title": "Investors nervous about AI spending slowdown after industry warnings",
-      "url": "https://www.reuters.com/legal/transactional/investors-nervous-about-ai-spending-slowdown-after-industry-warnings-2026-09-15/",
+      "title": "Tesla Full Self-Driving customers can now access lower insurance premiums",
+      "url": "https://www.drive.com.au/news/tesla-full-self-driving-customers-can-now-access-lower-insurance-premiums/",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: The web is dead. Keep this app alive",
-      "url": "https://longlivethis.site",
+      "title": "Massie launches effort to impeach Hegseth",
+      "url": "https://thehill.com/homenews/house/6090661-thomas-massie-pete-hegseth-impeachment-iran/",
       "source": "Hacker News"
     },
     {
-      "title": "See how well you know the sizes of things",
-      "url": "https://playdaily.org/size-it-up",
+      "title": "China would face a \"hellscape\" in a war over Taiwan",
+      "url": "https://www.economist.com/asia/2026/09/15/china-would-face-a-hellscape-in-a-war-over-taiwan",
       "source": "Hacker News"
     }
   ]
