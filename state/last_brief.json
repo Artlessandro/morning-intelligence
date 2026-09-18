@@ -1,29 +1,29 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "top_stories": [
     {
-      "title": "The Painful Truth: The RAM Crisis Is Only Just the Beginning",
-      "url": "https://www.madshrimps.be/news/the-painful-truth-the-ram-crisis-is-only-just-the-beginning/",
+      "title": "Waymo in Singapore",
+      "url": "https://waymo.com/waymo-in-singapore/",
       "source": "Hacker News"
     },
     {
-      "title": "The President's Power to Pardon Friends and Allies Must End",
-      "url": "https://medium.com/freedomofthought/the-presidents-power-to-pardon-friends-and-allies-must-end-b9574f9eedfb",
+      "title": "The scourge of x86 emulation",
+      "url": "https://fex-emu.com/Scourge-of-emulation/",
       "source": "Hacker News"
     },
     {
-      "title": "Cloudflare/Security-Audit-Skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
+      "title": "Jemalloc 5.4.0",
+      "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
       "source": "Hacker News"
     },
     {
-      "title": "White House doesn't want voters to see the real Trump",
-      "url": "https://www.salon.com/2026/09/16/white-house-doesnt-want-voters-to-see-the-real-trump/",
+      "title": "Inside ZCode: Silently Uploading Your Git History to the Cloud",
+      "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
       "source": "Hacker News"
     },
     {
-      "title": "The agents are coming for the web and the web isn't ready",
-      "url": "https://info.varnish-software.com/blog/the-agents-are-coming-for-the-web-and-the-web-isnt-ready",
+      "title": "Liquid Glass adoptions over and100 apps",
+      "url": "https://liquidglassradar.com",
       "source": "Hacker News"
     }
   ]
