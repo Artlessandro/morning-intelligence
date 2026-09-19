@@ -1,29 +1,29 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "top_stories": [
     {
-      "title": "Waymo in Singapore",
-      "url": "https://waymo.com/waymo-in-singapore/",
+      "title": "San Francisco Onion Futures Company",
+      "url": "https://onionfutures.com/",
       "source": "Hacker News"
     },
     {
-      "title": "The scourge of x86 emulation",
-      "url": "https://fex-emu.com/Scourge-of-emulation/",
+      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
       "source": "Hacker News"
     },
     {
-      "title": "Jemalloc 5.4.0",
-      "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+      "title": "Science Is Open Software",
+      "url": "https://jepedersen.dk/blog/202505_research/",
       "source": "Hacker News"
     },
     {
-      "title": "Inside ZCode: Silently Uploading Your Git History to the Cloud",
-      "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
+      "title": "SDCC – Small Device C Compiler",
+      "url": "https://sdcc.sourceforge.net/",
       "source": "Hacker News"
     },
     {
-      "title": "Liquid Glass adoptions over and100 apps",
-      "url": "https://liquidglassradar.com",
+      "title": "Flock Offers Employees Buyouts as Customers Flee",
+      "url": "https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/",
       "source": "Hacker News"
     }
   ]
