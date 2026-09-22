@@ -1,29 +1,29 @@
 {
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "top_stories": [
     {
-      "title": "Grim Fandango Puzzle Document (1996) [pdf]",
-      "url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
+      "title": "Apple Music to open concert venue in Battersea Power Station",
+      "url": "https://www.bbc.com/news/articles/c607l2j2rj8ro",
       "source": "Hacker News"
     },
     {
-      "title": "Far-left party wins Berlin election, pledging to nationalise housing",
-      "url": "https://www.reuters.com/world/far-left-party-wins-berlin-election-pledging-nationalise-housing-2026-09-20/",
+      "title": "Jev introduces a new shape of LLM",
+      "url": "https://simonwillison.net/2026/Sep/21/jev/",
       "source": "Hacker News"
     },
     {
-      "title": "Mini-AGI – dynamic continual learning model trained from scratch on 8GB VRAM",
-      "url": "https://github.com/volotat/mini-AGI/",
+      "title": "Firmware Freedom",
+      "url": "https://playtaurus.com/blog/firmware-freedom",
       "source": "Hacker News"
     },
     {
-      "title": "What Sun Got Wrong",
-      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+      "title": "Chinese paint cuts wall temperature by 25 degrees Celsius in summer test: report",
+      "url": "https://www.scmp.com/news/china/science/article/3367812/chinese-paint-cuts-wall-temperature-25-degrees-celsius-summer-test-report",
       "source": "Hacker News"
     },
     {
-      "title": "North Korean Hackers Posed as Recruiters.They Infected 30k Devices Worldwide",
-      "url": "https://www.inc.com/kevin-haynes/north-korean-hackers-posed-as-recruiters-infected-30000-devices-worldwide/91408222",
+      "title": "Why AI resembles a charismatic religious leader",
+      "url": "https://theconversation.com/why-ai-resembles-a-charismatic-religious-leader-291831",
       "source": "Hacker News"
     }
   ]
