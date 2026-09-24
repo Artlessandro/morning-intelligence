@@ -1,29 +1,29 @@
 {
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "top_stories": [
     {
-      "title": "Grammarly will send unhinged messages to all your users if you try to cancel",
-      "url": "https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/",
+      "title": "Six-year-old breaks women's world Rubik's Cube record [video]",
+      "url": "https://www.youtube.com/watch?v=UCMRgvyTm08",
       "source": "Hacker News"
     },
     {
-      "title": "Data-only attacks are easier than you think (2024)",
-      "url": "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think",
+      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+      "url": "https://transluce.org/agent-activity",
       "source": "Hacker News"
     },
     {
-      "title": "Acer CEO says memory makers are hyping 2030 shortage fears to protect margins",
-      "url": "https://www.tomshardware.com/pc-components/dram/acer-ceo-says-memory-makers-are-hyping-2030-shortage-fears-to-protect-margins-pc-prices-set-to-decline-by-late-2027-cheaper-chinese-capacity-coming-online-delivers-lower-memory-prices",
+      "title": "Contrastive Language Models",
+      "url": "https://contrastive-lm.notion.site/",
       "source": "Hacker News"
     },
     {
-      "title": "Anthropic classifiers prohibit kernel development",
-      "url": "https://twitter.com/TheAhmadOsman/status/2102535871727857915/photo/1",
+      "title": "AI Passport Photo",
+      "url": "https://www.aipassportphoto.org/",
       "source": "Hacker News"
     },
     {
-      "title": "Big Banks Say They're Uneasy About People Shopping via AI Agents",
-      "url": "https://gizmodo.com/big-banks-say-theyre-uneasy-about-people-shopping-via-ai-agents-2000815443",
+      "title": "Trump White House Press Ban Matches 1933 Nazi Law",
+      "url": "https://www.flyingpenguin.com/trump-white-house-press-ban-matches-1933-nazi-law/",
       "source": "Hacker News"
     }
   ]
