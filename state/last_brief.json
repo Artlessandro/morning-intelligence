@@ -1,29 +1,29 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "top_stories": [
     {
-      "title": "Six-year-old breaks women's world Rubik's Cube record [video]",
-      "url": "https://www.youtube.com/watch?v=UCMRgvyTm08",
+      "title": "Goodbye Google",
+      "url": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
       "source": "Hacker News"
     },
     {
-      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-      "url": "https://transluce.org/agent-activity",
+      "title": "Taste Bench",
+      "url": "https://www.omneky.com/tastebench",
       "source": "Hacker News"
     },
     {
-      "title": "Contrastive Language Models",
-      "url": "https://contrastive-lm.notion.site/",
+      "title": "I stopped letting LLMs do arithmetic",
+      "url": "https://medium.com/@jwbobbink/best-search-console-mcp-in-2026-gsc-wizard-7a63f91191ca",
       "source": "Hacker News"
     },
     {
-      "title": "AI Passport Photo",
-      "url": "https://www.aipassportphoto.org/",
+      "title": "Collaborative Editing in Wordgard",
+      "url": "https://marijnhaverbeke.nl/blog/collaborative-editing-wordgard.html",
       "source": "Hacker News"
     },
     {
-      "title": "Trump White House Press Ban Matches 1933 Nazi Law",
-      "url": "https://www.flyingpenguin.com/trump-white-house-press-ban-matches-1933-nazi-law/",
+      "title": "Peter Thiel slams pope's AI encyclical as gift to Chinese Communist Party",
+      "url": "https://www.politico.com/news/2026/09/24/peter-thiel-slams-popes-ai-encyclical-as-gift-to-chinese-communist-party-01091850",
       "source": "Hacker News"
     }
   ]
