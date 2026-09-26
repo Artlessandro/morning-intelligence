@@ -1,29 +1,29 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "top_stories": [
     {
-      "title": "Goodbye Google",
-      "url": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
+      "title": "A single function Jev-like wrapper for LLMs, including vision models",
+      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
       "source": "Hacker News"
     },
     {
-      "title": "Taste Bench",
-      "url": "https://www.omneky.com/tastebench",
+      "title": "Can AI Shopping Agents Be Trusted?",
+      "url": "https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out",
       "source": "Hacker News"
     },
     {
-      "title": "I stopped letting LLMs do arithmetic",
-      "url": "https://medium.com/@jwbobbink/best-search-console-mcp-in-2026-gsc-wizard-7a63f91191ca",
+      "title": "Evolving programming languages in the AI era",
+      "url": "https://twitter.com/josevalim/status/2103133294317445290",
       "source": "Hacker News"
     },
     {
-      "title": "Collaborative Editing in Wordgard",
-      "url": "https://marijnhaverbeke.nl/blog/collaborative-editing-wordgard.html",
+      "title": "Pencils Down, Notation Up",
+      "url": "https://intertwingly.net/blog/2026/09/25/Pencils-Down-Notation-Up.html",
       "source": "Hacker News"
     },
     {
-      "title": "Peter Thiel slams pope's AI encyclical as gift to Chinese Communist Party",
-      "url": "https://www.politico.com/news/2026/09/24/peter-thiel-slams-popes-ai-encyclical-as-gift-to-chinese-communist-party-01091850",
+      "title": "The Sleazy World of Reddit Marketing, Everything Is Fake",
+      "url": "https://larslofgren.com/reddit-marketing/",
       "source": "Hacker News"
     }
   ]
