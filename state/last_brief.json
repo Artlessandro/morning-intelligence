@@ -1,29 +1,29 @@
 {
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "top_stories": [
     {
-      "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
-      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+      "title": "WarpBuild: Fast CI for Humans and Agents",
+      "url": "https://www.warpbuild.com",
       "source": "Hacker News"
     },
     {
-      "title": "Wall-mounted vegetable garden growing peppers over 2 meters tall [video]",
-      "url": "https://www.youtube.com/watch?v=Wvb52q9TKKM",
+      "title": "Management is forcing us to use AI",
+      "url": "https://news.ycombinator.com/item?id=49873913",
       "source": "Hacker News"
     },
     {
-      "title": "I expect AI replication incidents by 2027",
-      "url": "https://www.lesswrong.com/posts/BhcymsLgyYazh6sme/why-i-expect-ai-replication-incidents-by-2027",
+      "title": "Open Annihilation – Spent the GDP of a Small Nation Remaking a Classic 90s Game",
+      "url": "https://press.coreprime.net/",
       "source": "Hacker News"
     },
     {
-      "title": "AurionMail: E2EE suite (CryptPad/Stalwart) with single-password UX",
-      "url": "https://aurionmail.github.io/docs/",
+      "title": "Why Self-Hosting Is Defense Against AGI",
+      "url": "https://www.anvilai.com/manifesto",
       "source": "Hacker News"
     },
     {
-      "title": "The New Copilot with Home, Code and Autopilot",
-      "url": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+      "title": "An Antidote to Roko's Basilisk",
+      "url": "https://news.ycombinator.com/item?id=49874609",
       "source": "Hacker News"
     }
   ]
