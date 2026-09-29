@@ -1,29 +1,29 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "top_stories": [
     {
-      "title": "WarpBuild: Fast CI for Humans and Agents",
-      "url": "https://www.warpbuild.com",
+      "title": "US Forces Exit Iraq",
+      "url": "https://www.reuters.com/world/middle-east/us-forces-exit-iraq-after-two-decades-leaving-opening-iran-2026-09-29/",
       "source": "Hacker News"
     },
     {
-      "title": "Management is forcing us to use AI",
-      "url": "https://news.ycombinator.com/item?id=49873913",
+      "title": "OpenAI: Tomorrow we are re-opening the Pro $200 subscription",
+      "url": "https://twitter.com/thsottiaux/status/2104823812042940713",
       "source": "Hacker News"
     },
     {
-      "title": "Open Annihilation – Spent the GDP of a Small Nation Remaking a Classic 90s Game",
-      "url": "https://press.coreprime.net/",
+      "title": "OpenAI axes next model citing safety issues",
+      "url": "https://www.ft.com/content/488cb467-3cb7-4d06-9a5f-c0749c729d91",
       "source": "Hacker News"
     },
     {
-      "title": "Why Self-Hosting Is Defense Against AGI",
-      "url": "https://www.anvilai.com/manifesto",
+      "title": "Migrating from MinIO to Predastore",
+      "url": "https://mulgadc.com/blog/migrate-minio-to-predastore",
       "source": "Hacker News"
     },
     {
-      "title": "An Antidote to Roko's Basilisk",
-      "url": "https://news.ycombinator.com/item?id=49874609",
+      "title": "Trump asked Xi Jinping if China would like to buy US weapons",
+      "url": "https://www.theguardian.com/world/2026/sep/28/trump-xi-jinping-china-buy-weapons",
       "source": "Hacker News"
     }
   ]
