@@ -1,29 +1,29 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "top_stories": [
     {
-      "title": "US Forces Exit Iraq",
-      "url": "https://www.reuters.com/world/middle-east/us-forces-exit-iraq-after-two-decades-leaving-opening-iran-2026-09-29/",
+      "title": "Postgres with QUIC",
+      "url": "https://blogs.lupyd.com/blog/postgres-with-quic/",
       "source": "Hacker News"
     },
     {
-      "title": "OpenAI: Tomorrow we are re-opening the Pro $200 subscription",
-      "url": "https://twitter.com/thsottiaux/status/2104823812042940713",
+      "title": "Someone Still Has to Buy Your Product",
+      "url": "https://mayt.substack.com/p/someone-still-has-to-buy-your-product",
       "source": "Hacker News"
     },
     {
-      "title": "OpenAI axes next model citing safety issues",
-      "url": "https://www.ft.com/content/488cb467-3cb7-4d06-9a5f-c0749c729d91",
+      "title": "Decision API – compare and call decision models through one API",
+      "url": "https://decisionapi.org",
       "source": "Hacker News"
     },
     {
-      "title": "Migrating from MinIO to Predastore",
-      "url": "https://mulgadc.com/blog/migrate-minio-to-predastore",
+      "title": "(parody) A bot watched 1k hours of Batman movies and wrote a script of its own (2020)",
+      "url": "https://old.reddit.com/r/DC_Cinematic/comments/i3kr2z/humor_someone_forced_a_bot_to_watch_over_1000/",
       "source": "Hacker News"
     },
     {
-      "title": "Trump asked Xi Jinping if China would like to buy US weapons",
-      "url": "https://www.theguardian.com/world/2026/sep/28/trump-xi-jinping-china-buy-weapons",
+      "title": "September 2026: The world today, as seen by one Polish guy",
+      "url": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
       "source": "Hacker News"
     }
   ]
