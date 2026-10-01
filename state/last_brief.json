@@ -1,29 +1,29 @@
 {
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "top_stories": [
     {
-      "title": "Postgres with QUIC",
-      "url": "https://blogs.lupyd.com/blog/postgres-with-quic/",
+      "title": "We'll limit access to old Reddit to users that haved used it in the last 6 month",
+      "url": "https://www.reddit.com/r/modnews/comments/1wubgvt/continuing_our_infrastructure_updates_whats/",
       "source": "Hacker News"
     },
     {
-      "title": "Someone Still Has to Buy Your Product",
-      "url": "https://mayt.substack.com/p/someone-still-has-to-buy-your-product",
+      "title": "Meta wants people to use 'AI agents' to do daily tasks. Why that's a problem",
+      "url": "https://theconversation.com/meta-wants-people-to-use-ai-agents-to-do-daily-tasks-for-them-heres-why-thats-a-problem-292962",
       "source": "Hacker News"
     },
     {
-      "title": "Decision API – compare and call decision models through one API",
-      "url": "https://decisionapi.org",
+      "title": "Stephen Fry: AI, a means to an end, or a means to our end? (Sep 2024)",
+      "url": "https://web.archive.org/web/20240915122038/https://stephenfry.substack.com/p/ai-a-means-to-an-end-or-a-means-to",
       "source": "Hacker News"
     },
     {
-      "title": "(parody) A bot watched 1k hours of Batman movies and wrote a script of its own (2020)",
-      "url": "https://old.reddit.com/r/DC_Cinematic/comments/i3kr2z/humor_someone_forced_a_bot_to_watch_over_1000/",
+      "title": "Show HN: Wordpaste – clean Microsoft Word and Google Docs paste, keep equations",
+      "url": "https://smrifat1411.github.io/wordpaste/",
       "source": "Hacker News"
     },
     {
-      "title": "September 2026: The world today, as seen by one Polish guy",
-      "url": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
+      "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+      "url": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
       "source": "Hacker News"
     }
   ]
