@@ -1,29 +1,29 @@
 {
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "top_stories": [
     {
-      "title": "We are going to kill \"unalive\"",
-      "url": "https://www.anildash.com/2026/10/06/kill-unalive/",
+      "title": "Clean room implementation of Adobe products",
+      "url": "https://github.com/storytold",
       "source": "Hacker News"
     },
     {
-      "title": "German Bundeswehr Uses AI to Screen Applicants for Right-Wing Extremism",
-      "url": "https://news.osna.fm/german-military-intelligence-uses-ai-to-screen-bundeswehr-applicants-for-right-wing-extremism/",
+      "title": "Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer",
+      "url": "https://github.com/shader-effects-inc/shaders",
       "source": "Hacker News"
     },
     {
-      "title": "'Pull the plug': protesters resort to direct action against AI firms",
-      "url": "https://www.theguardian.com/technology/2026/oct/06/pull-the-plug-protesters-resort-to-direct-action-against-ai-firms",
+      "title": "We Asked Starbucks Why Their 'Sugar-Free' Drinks Have Sugar",
+      "url": "https://gizmodo.com/we-asked-starbucks-why-their-sugar-free-drinks-have-sugar-and-now-were-just-more-confused-2000822422",
       "source": "Hacker News"
     },
     {
-      "title": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
-      "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+      "title": "OpenAI unleashes hundreds more math results upon a field in shock",
+      "url": "https://www.scientificamerican.com/article/openai-unleashes-hundreds-more-math-results-upon-a-field-already-in-shock/",
       "source": "Hacker News"
     },
     {
-      "title": "Jev vs. Clef",
-      "url": "https://twitter.com/sztwiorok/status/2107356946844070190",
+      "title": "Show HN: Musql, JIT-compiled SQL, up to 300x faster than SQLite, 1000x vs. Turso",
+      "url": "https://github.com/samyfodil/musql",
       "source": "Hacker News"
     }
   ]
