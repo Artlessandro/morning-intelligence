@@ -1,29 +1,29 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "top_stories": [
     {
-      "title": "Clean room implementation of Adobe products",
-      "url": "https://github.com/storytold",
+      "title": "The people holding up the internet",
+      "url": "https://sheets.works/data-viz/holding-up-the-internet",
       "source": "Hacker News"
     },
     {
-      "title": "Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer",
-      "url": "https://github.com/shader-effects-inc/shaders",
+      "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
+      "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
       "source": "Hacker News"
     },
     {
-      "title": "We Asked Starbucks Why Their 'Sugar-Free' Drinks Have Sugar",
-      "url": "https://gizmodo.com/we-asked-starbucks-why-their-sugar-free-drinks-have-sugar-and-now-were-just-more-confused-2000822422",
+      "title": "OpenAI withdraws three mathematical results",
+      "url": "https://twitter.com/danintheory/status/2108065033070789090",
       "source": "Hacker News"
     },
     {
-      "title": "OpenAI unleashes hundreds more math results upon a field in shock",
-      "url": "https://www.scientificamerican.com/article/openai-unleashes-hundreds-more-math-results-upon-a-field-already-in-shock/",
+      "title": "Dat-ecosystem: high level applications built on top of P2P protocols",
+      "url": "https://dat-ecosystem.org/",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: Musql, JIT-compiled SQL, up to 300x faster than SQLite, 1000x vs. Turso",
-      "url": "https://github.com/samyfodil/musql",
+      "title": "AI Crawler Index",
+      "url": "https://mojodojo.io/ai-crawler-index",
       "source": "Hacker News"
     }
   ]
