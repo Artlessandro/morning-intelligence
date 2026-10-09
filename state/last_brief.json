@@ -1,29 +1,29 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "top_stories": [
     {
-      "title": "The people holding up the internet",
-      "url": "https://sheets.works/data-viz/holding-up-the-internet",
+      "title": "OTel-Native by Design – Building Products That Export to Any Observability Stack",
+      "url": "https://opentelemetry.io/blog/2026/otel-native-by-design/",
       "source": "Hacker News"
     },
     {
-      "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
-      "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
+      "title": "MXC - a sandboxed code execution system",
+      "url": "https://github.com/microsoft/mxc",
       "source": "Hacker News"
     },
     {
-      "title": "OpenAI withdraws three mathematical results",
-      "url": "https://twitter.com/danintheory/status/2108065033070789090",
+      "title": "Apogee: Mozilla Killed Orbit. I Rebuilt It Locally and Privately",
+      "url": "https://github.com/darshi1337/apogee",
       "source": "Hacker News"
     },
     {
-      "title": "Dat-ecosystem: high level applications built on top of P2P protocols",
-      "url": "https://dat-ecosystem.org/",
+      "title": "Show HN: OldRoll, a free vintage photo editor for the browser",
+      "url": "https://www.oldroll.io/",
       "source": "Hacker News"
     },
     {
-      "title": "AI Crawler Index",
-      "url": "https://mojodojo.io/ai-crawler-index",
+      "title": "EU drops sponsorship of disinformation conference at Trump officials' request",
+      "url": "https://www.theguardian.com/us-news/2026/oct/07/trump-eu-disinformation-conference",
       "source": "Hacker News"
     }
   ]
