@@ -1,29 +1,29 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "top_stories": [
     {
-      "title": "OTel-Native by Design – Building Products That Export to Any Observability Stack",
-      "url": "https://opentelemetry.io/blog/2026/otel-native-by-design/",
+      "title": "Computers Cannot Make Decisions",
+      "url": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
       "source": "Hacker News"
     },
     {
-      "title": "MXC - a sandboxed code execution system",
-      "url": "https://github.com/microsoft/mxc",
+      "title": "If AI keeps evolving,would you worry about your next generation's survival",
+      "url": "https://news.ycombinator.com/item?id=50029896",
       "source": "Hacker News"
     },
     {
-      "title": "Apogee: Mozilla Killed Orbit. I Rebuilt It Locally and Privately",
-      "url": "https://github.com/darshi1337/apogee",
+      "title": "Food processing influences metabolism and brain activity",
+      "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: OldRoll, a free vintage photo editor for the browser",
-      "url": "https://www.oldroll.io/",
+      "title": "Show HN: The safe-choice tax – what the vendor nobody gets fired for costs",
+      "url": "https://svpremium.dev/",
       "source": "Hacker News"
     },
     {
-      "title": "EU drops sponsorship of disinformation conference at Trump officials' request",
-      "url": "https://www.theguardian.com/us-news/2026/oct/07/trump-eu-disinformation-conference",
+      "title": "Vec1: Native vector search (ANN) in SQLite",
+      "url": "https://sqlite.org/vec1/doc/trunk/doc/vec1.md",
       "source": "Hacker News"
     }
   ]
