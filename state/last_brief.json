@@ -1,29 +1,29 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "top_stories": [
     {
-      "title": "Computers Cannot Make Decisions",
-      "url": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
+      "title": "3rd Yandex Cloud Data Center Was Hit",
+      "url": "https://status.yandex.cloud/en/incidents/2136",
       "source": "Hacker News"
     },
     {
-      "title": "If AI keeps evolving,would you worry about your next generation's survival",
-      "url": "https://news.ycombinator.com/item?id=50029896",
+      "title": "Vegetables are half as nutritious as they were in the 1960s",
+      "url": "https://www.telegraph.co.uk/business/2026/10/07/vegetable-nutrition-halved-since-60s/",
       "source": "Hacker News"
     },
     {
-      "title": "Food processing influences metabolism and brain activity",
-      "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
+      "title": "Ukraine hits second major tech site, expanding range of targets inside Russia",
+      "url": "https://www.reuters.com/world/europe/russias-yandex-says-second-data-centre-hit-by-drone-attack-2026-10-09/",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: The safe-choice tax – what the vendor nobody gets fired for costs",
-      "url": "https://svpremium.dev/",
+      "title": "LineageOS 24.0",
+      "url": "https://lineageos.org/Changelog-32/",
       "source": "Hacker News"
     },
     {
-      "title": "Vec1: Native vector search (ANN) in SQLite",
-      "url": "https://sqlite.org/vec1/doc/trunk/doc/vec1.md",
+      "title": "Does Fast Mode Do Anything?",
+      "url": "https://doesfastdoanything.com/",
       "source": "Hacker News"
     }
   ]
