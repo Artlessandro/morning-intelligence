@@ -1,29 +1,29 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "top_stories": [
     {
-      "title": "3rd Yandex Cloud Data Center Was Hit",
-      "url": "https://status.yandex.cloud/en/incidents/2136",
+      "title": "Attack of the Vibe Coded Photoshop Clones",
+      "url": "https://www.shokunin.studio/blog/2026/10/9/attack-of-the-vibe-coded-photoshop-clones",
       "source": "Hacker News"
     },
     {
-      "title": "Vegetables are half as nutritious as they were in the 1960s",
-      "url": "https://www.telegraph.co.uk/business/2026/10/07/vegetable-nutrition-halved-since-60s/",
+      "title": "Type-safe HTML templating in Zig",
+      "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
       "source": "Hacker News"
     },
     {
-      "title": "Ukraine hits second major tech site, expanding range of targets inside Russia",
-      "url": "https://www.reuters.com/world/europe/russias-yandex-says-second-data-centre-hit-by-drone-attack-2026-10-09/",
+      "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+      "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
       "source": "Hacker News"
     },
     {
-      "title": "LineageOS 24.0",
-      "url": "https://lineageos.org/Changelog-32/",
+      "title": "Postgres isn't slow, your storage is",
+      "url": "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is",
       "source": "Hacker News"
     },
     {
-      "title": "Does Fast Mode Do Anything?",
-      "url": "https://doesfastdoanything.com/",
+      "title": "Do not install Zod 4.6.6 – might be infected",
+      "url": "https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467",
       "source": "Hacker News"
     }
   ]
