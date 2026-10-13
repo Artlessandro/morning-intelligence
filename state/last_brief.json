@@ -1,29 +1,29 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "top_stories": [
     {
-      "title": "Attack of the Vibe Coded Photoshop Clones",
-      "url": "https://www.shokunin.studio/blog/2026/10/9/attack-of-the-vibe-coded-photoshop-clones",
+      "title": "Reform UK figures see social media engagement drop after strikes on Russia DCs",
+      "url": "https://www.thelondoneconomic.com/politics/reform-figures-see-social-media-engagement-drop-after-strikes-on-russia-data-centres-410517/",
       "source": "Hacker News"
     },
     {
-      "title": "Type-safe HTML templating in Zig",
-      "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+      "title": "Linus Torvalds \"Did What I Preach\" Used AI to Make Code Decipherabl, Find Bugs",
+      "url": "https://www.phoronix.com/news/Linus-Torvalds-Assoc-Array",
       "source": "Hacker News"
     },
     {
-      "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
-      "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+      "title": "Trump is a symptom, not a cause",
+      "url": "https://www.straitstimes.com/world/former-british-pm-sunak-says-trump-is-a-symptom-of-breakdown-in-global-order",
       "source": "Hacker News"
     },
     {
-      "title": "Postgres isn't slow, your storage is",
-      "url": "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is",
+      "title": "Chinese data vendors emerging and trying to go global – focus on healthcare data",
+      "url": "https://aiproem.substack.com/p/does-china-not-have-data-vendors",
       "source": "Hacker News"
     },
     {
-      "title": "Do not install Zod 4.6.6 – might be infected",
-      "url": "https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467",
+      "title": "Welcome to the age of decadence without pleasure",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/26/age-of-decadence-pleasure-ai",
       "source": "Hacker News"
     }
   ]
