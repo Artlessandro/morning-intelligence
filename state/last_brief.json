@@ -1,29 +1,29 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "top_stories": [
     {
-      "title": "Reform UK figures see social media engagement drop after strikes on Russia DCs",
-      "url": "https://www.thelondoneconomic.com/politics/reform-figures-see-social-media-engagement-drop-after-strikes-on-russia-data-centres-410517/",
+      "title": "Felix Rieseberg Homepage",
+      "url": "https://felixrieseberg.com/",
       "source": "Hacker News"
     },
     {
-      "title": "Linus Torvalds \"Did What I Preach\" Used AI to Make Code Decipherabl, Find Bugs",
-      "url": "https://www.phoronix.com/news/Linus-Torvalds-Assoc-Array",
+      "title": "Anthropic conjures threat that doesn't exist yet to stoke fears of AI apocalypse",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866",
       "source": "Hacker News"
     },
     {
-      "title": "Trump is a symptom, not a cause",
-      "url": "https://www.straitstimes.com/world/former-british-pm-sunak-says-trump-is-a-symptom-of-breakdown-in-global-order",
+      "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+      "url": "https://github.com/android/ndk/issues/2260",
       "source": "Hacker News"
     },
     {
-      "title": "Chinese data vendors emerging and trying to go global – focus on healthcare data",
-      "url": "https://aiproem.substack.com/p/does-china-not-have-data-vendors",
+      "title": "Microsoft: Introducing Xbox Labs",
+      "url": "https://news.xbox.com/en-us/2026/10/13/introducing-xbox-labs/",
       "source": "Hacker News"
     },
     {
-      "title": "Welcome to the age of decadence without pleasure",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/26/age-of-decadence-pleasure-ai",
+      "title": "Social platforms have 'responsibility' to block US execution live stream",
+      "url": "https://www.abc.net.au/news/2026-10-13/anthony-albanese-us-execution-live-stream-social-media/107261442",
       "source": "Hacker News"
     }
   ]
