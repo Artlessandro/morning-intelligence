@@ -1,29 +1,29 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "top_stories": [
     {
-      "title": "Felix Rieseberg Homepage",
-      "url": "https://felixrieseberg.com/",
+      "title": "An Apology",
+      "url": "https://www.elevationlab.com/blogs/news/an-apology",
       "source": "Hacker News"
     },
     {
-      "title": "Anthropic conjures threat that doesn't exist yet to stoke fears of AI apocalypse",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866",
+      "title": "Show HN: Flipflop, iroh-powered persistent tunnels for filesharing",
+      "url": "https://github.com/andunieee/flipflop",
       "source": "Hacker News"
     },
     {
-      "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
-      "url": "https://github.com/android/ndk/issues/2260",
+      "title": "Canadian ransomware negotiator arrested amid FBI hacker crackdown",
+      "url": "https://www.ctvnews.ca/canada/article/canadian-ransomware-negotiator-arrested-amid-fbi-hacker-crackdown/",
       "source": "Hacker News"
     },
     {
-      "title": "Microsoft: Introducing Xbox Labs",
-      "url": "https://news.xbox.com/en-us/2026/10/13/introducing-xbox-labs/",
+      "title": "Palantir CTO: some AI researchers are smoking because AI will cure cancer",
+      "url": "https://www.businessinsider.com/ai-researchers-smoking-ai-cure-cancer-palantir-cto-2026-10",
       "source": "Hacker News"
     },
     {
-      "title": "Social platforms have 'responsibility' to block US execution live stream",
-      "url": "https://www.abc.net.au/news/2026-10-13/anthony-albanese-us-execution-live-stream-social-media/107261442",
+      "title": "Investigation: EU citizens' private messages are run through Palantir's software",
+      "url": "https://arvidgrange.substack.com/p/investigation-eu-citizens-private",
       "source": "Hacker News"
     }
   ]
