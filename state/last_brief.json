@@ -1,29 +1,29 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "top_stories": [
     {
-      "title": "An Apology",
-      "url": "https://www.elevationlab.com/blogs/news/an-apology",
+      "title": "Tesla makes cars that fly? [video]",
+      "url": "https://www.youtube.com/watch?v=7p5LxFdc-Qg",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: Flipflop, iroh-powered persistent tunnels for filesharing",
-      "url": "https://github.com/andunieee/flipflop",
+      "title": "Greece drafts law requiring data centers source 60% of power from renewables",
+      "url": "https://www.datacenterdynamics.com/en/news/greece-drafts-legislation-requiring-data-centers-source-60-of-power-from-renewables/",
       "source": "Hacker News"
     },
     {
-      "title": "Canadian ransomware negotiator arrested amid FBI hacker crackdown",
-      "url": "https://www.ctvnews.ca/canada/article/canadian-ransomware-negotiator-arrested-amid-fbi-hacker-crackdown/",
+      "title": "Sergey Brin says Google's AI models are reaching recursive self-improvement",
+      "url": "https://www.businessinsider.com/sergey-brin-google-gemini-ai-argon-recursive-self-improvement-rsi-2026-10",
       "source": "Hacker News"
     },
     {
-      "title": "Palantir CTO: some AI researchers are smoking because AI will cure cancer",
-      "url": "https://www.businessinsider.com/ai-researchers-smoking-ai-cure-cancer-palantir-cto-2026-10",
+      "title": "OSI Approved the Curl License",
+      "url": "https://daniel.haxx.se/blog/2026/10/15/osi-approved-the-curl-license/",
       "source": "Hacker News"
     },
     {
-      "title": "Investigation: EU citizens' private messages are run through Palantir's software",
-      "url": "https://arvidgrange.substack.com/p/investigation-eu-citizens-private",
+      "title": "Scientists vote to end leap seconds, redefining how the world keeps time",
+      "url": "https://www.scientificamerican.com/article/scientists-vote-to-end-leap-seconds-redefining-how-the-world-keeps-time/",
       "source": "Hacker News"
     }
   ]
