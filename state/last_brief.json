@@ -1,29 +1,29 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "top_stories": [
     {
-      "title": "Tesla makes cars that fly? [video]",
-      "url": "https://www.youtube.com/watch?v=7p5LxFdc-Qg",
+      "title": "Israeli settlers attack olive framers & Washington Post journalist in West Bank",
+      "url": "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine",
       "source": "Hacker News"
     },
     {
-      "title": "Greece drafts law requiring data centers source 60% of power from renewables",
-      "url": "https://www.datacenterdynamics.com/en/news/greece-drafts-legislation-requiring-data-centers-source-60-of-power-from-renewables/",
+      "title": "\"In every study that considered the question\"",
+      "url": "https://unsung.aresluna.org/in-every-study-that-considered-the-question/",
       "source": "Hacker News"
     },
     {
-      "title": "Sergey Brin says Google's AI models are reaching recursive self-improvement",
-      "url": "https://www.businessinsider.com/sergey-brin-google-gemini-ai-argon-recursive-self-improvement-rsi-2026-10",
+      "title": "Trump Signs Order Exempting Russia from Sanctions Law",
+      "url": "https://www.nytimes.com/2026/10/16/us/politics/trump-order-russia-sanctions.html",
       "source": "Hacker News"
     },
     {
-      "title": "OSI Approved the Curl License",
-      "url": "https://daniel.haxx.se/blog/2026/10/15/osi-approved-the-curl-license/",
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "url": "https://llmspeed.dev/",
       "source": "Hacker News"
     },
     {
-      "title": "Scientists vote to end leap seconds, redefining how the world keeps time",
-      "url": "https://www.scientificamerican.com/article/scientists-vote-to-end-leap-seconds-redefining-how-the-world-keeps-time/",
+      "title": "German police launch investigation after robot allegedly gropes teenage girl",
+      "url": "https://www.cnn.com/2026/10/14/europe/germany-investigation-robot-groping-intl",
       "source": "Hacker News"
     }
   ]
