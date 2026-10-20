@@ -1,29 +1,29 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "top_stories": [
     {
-      "title": "DeepSeek V4.1 Flash 1017 (Max)",
-      "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
+      "title": "U.S. Supreme Court to review 1868 federal ban on home distilling of liquor",
+      "url": "https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/",
       "source": "Hacker News"
     },
     {
-      "title": "Verisign .com Domain Name Registry Consumer Class Action",
-      "url": "https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action",
+      "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
+      "url": "https://deathplanswitch.com/",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: Strot – Compile an LLM's intent once, run decisions locally",
-      "url": "https://github.com/strot-ai/Project-STROT",
+      "title": "Americans Are Spending More Money to Drive Worse Cars",
+      "url": "https://www.theatlantic.com/technology/2026/10/americans-not-buying-electric-cars/689071/",
       "source": "Hacker News"
     },
     {
-      "title": "Agent-Skills.market",
-      "url": "https://agent-skills.market/",
+      "title": "Vite+ an excellent toolchain for AI agent development",
+      "url": "https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en",
       "source": "Hacker News"
     },
     {
-      "title": "Flatpak – An Insecurity Nightmare",
-      "url": "https://oro.gay/posts/flatpak-an-insecurity-nightmare/",
+      "title": "Supreme Court agrees to review ban on distilling spirits in private homes",
+      "url": "https://apnews.com/article/supreme-court-distilling-spirits-reconstruction-ban-51131151865ded86093a99ec56451465",
       "source": "Hacker News"
     }
   ]
