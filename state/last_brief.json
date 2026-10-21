@@ -1,29 +1,29 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "top_stories": [
     {
-      "title": "U.S. Supreme Court to review 1868 federal ban on home distilling of liquor",
-      "url": "https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/",
+      "title": "PHP session.upload_progress heap UAF (CVE-2026-109618 / -109619)",
+      "url": "https://jackalsyn.com/posts/php-up-2026.html",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
-      "url": "https://deathplanswitch.com/",
+      "title": "Pillowfort Is Closing",
+      "url": "https://www.pillowfort.social/posts/8413273",
       "source": "Hacker News"
     },
     {
-      "title": "Americans Are Spending More Money to Drive Worse Cars",
-      "url": "https://www.theatlantic.com/technology/2026/10/americans-not-buying-electric-cars/689071/",
+      "title": "Alibaba hikes DeepSeek V4 Flash 0731 output prices by 230%",
+      "url": "https://www.stork.ai/newsletter/2026-10-20-alibaba-quietly-tripled-deepseek-prices#lead",
       "source": "Hacker News"
     },
     {
-      "title": "Vite+ an excellent toolchain for AI agent development",
-      "url": "https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en",
+      "title": "Setting Up SSH Keys on macOS with Touch ID",
+      "url": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
       "source": "Hacker News"
     },
     {
-      "title": "Supreme Court agrees to review ban on distilling spirits in private homes",
-      "url": "https://apnews.com/article/supreme-court-distilling-spirits-reconstruction-ban-51131151865ded86093a99ec56451465",
+      "title": "Battlezone Online: BZFlag in the Browser",
+      "url": "https://github.com/timriker/bzo",
       "source": "Hacker News"
     }
   ]
