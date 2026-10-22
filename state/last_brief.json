@@ -1,29 +1,29 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "top_stories": [
     {
-      "title": "PHP session.upload_progress heap UAF (CVE-2026-109618 / -109619)",
-      "url": "https://jackalsyn.com/posts/php-up-2026.html",
+      "title": "I can't believe PowerShell is good",
+      "url": "https://www.spacebar.news/powershell-is-actually-good/",
       "source": "Hacker News"
     },
     {
-      "title": "Pillowfort Is Closing",
-      "url": "https://www.pillowfort.social/posts/8413273",
+      "title": "OpenAI CLI",
+      "url": "https://github.com/openai/openai-cli",
       "source": "Hacker News"
     },
     {
-      "title": "Alibaba hikes DeepSeek V4 Flash 0731 output prices by 230%",
-      "url": "https://www.stork.ai/newsletter/2026-10-20-alibaba-quietly-tripled-deepseek-prices#lead",
+      "title": "Meta strikes deal to protect Zuckerberg from California billionaire tax",
+      "url": "https://finance.yahoo.com/media-advertising/articles/meta-hit-record-25bn-penalty-200405974.html",
       "source": "Hacker News"
     },
     {
-      "title": "Setting Up SSH Keys on macOS with Touch ID",
-      "url": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
+      "title": "I'm good at only one thing, and it's not valuable",
+      "url": "https://wasimulsami.substack.com/p/im-good-at-only-one-thing-and-its",
       "source": "Hacker News"
     },
     {
-      "title": "Battlezone Online: BZFlag in the Browser",
-      "url": "https://github.com/timriker/bzo",
+      "title": "Ebola has spread from Congo to 4 other countries. A look at where things stand",
+      "url": "https://apnews.com/article/africa-ebola-congo-nigeria-abuja-virus-03b6388f86e305fad711606f22c6577f",
       "source": "Hacker News"
     }
   ]
