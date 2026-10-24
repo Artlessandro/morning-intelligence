@@ -1,29 +1,29 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "top_stories": [
     {
-      "title": "Move Slow and Fix Things (2024)",
-      "url": "https://endler.dev/2024/move-slow-and-fix-things/",
+      "title": "How close can pure functional programming get to C?",
+      "url": "https://rtfeldman.com/fp-vs-c",
       "source": "Hacker News"
     },
     {
-      "title": "We're addicted to social media. How do we get sober?",
-      "url": "https://www.scientificamerican.com/article/were-addicted-to-social-media-how-do-we-get-sober/",
+      "title": "Elon Musk Acquires $1B Stake in CNN's Parent Company",
+      "url": "https://symby.com/news?_cid=101605177&preferredLanguage=en",
       "source": "Hacker News"
     },
     {
-      "title": "Trump Officials Asked Agency to Obtain and Hack a Voting Machine",
-      "url": "https://www.ibtimes.co.uk/trump-appointees-cisa-hack-voting-machine-1826479",
+      "title": "OBS Studio 33",
+      "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
       "source": "Hacker News"
     },
     {
-      "title": "Restoring a Soviet ES-4001 Mainframe Control Panel",
-      "url": "https://hackaday.com/2026/10/22/restoring-a-soviet-es-4001-mainframe-control-panel/",
+      "title": "Meta says if its AI makes a mistake, it will legally be the customer's fault",
+      "url": "https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html",
       "source": "Hacker News"
     },
     {
-      "title": "Trump's Gamble to End the Iran War",
-      "url": "https://www.theatlantic.com/national-security/2026/10/trump-iran-war-strikes-after-midterms/689121/",
+      "title": "Indian government sites are serving revoked eMudhra certificates",
+      "url": "https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/",
       "source": "Hacker News"
     }
   ]
