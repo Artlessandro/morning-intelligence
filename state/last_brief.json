@@ -1,29 +1,29 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "top_stories": [
     {
-      "title": "How close can pure functional programming get to C?",
-      "url": "https://rtfeldman.com/fp-vs-c",
+      "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
+      "url": "https://github.com/slee-persis/GVS5H",
       "source": "Hacker News"
     },
     {
-      "title": "Elon Musk Acquires $1B Stake in CNN's Parent Company",
-      "url": "https://symby.com/news?_cid=101605177&preferredLanguage=en",
+      "title": "Xbox Turns Down Netflix $500M Offer",
+      "url": "https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/",
       "source": "Hacker News"
     },
     {
-      "title": "OBS Studio 33",
-      "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+      "title": "Attention people who think UB is fine",
+      "url": "https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html",
       "source": "Hacker News"
     },
     {
-      "title": "Meta says if its AI makes a mistake, it will legally be the customer's fault",
-      "url": "https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html",
+      "title": "A CA key that was the number 4 passed its audit. Nobody was assigned to check it",
+      "url": "https://pilgrima.ge/p/someone-else-checked",
       "source": "Hacker News"
     },
     {
-      "title": "Indian government sites are serving revoked eMudhra certificates",
-      "url": "https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/",
+      "title": "Weight-loss drug reduces sleep apnea in two late-stage trials",
+      "url": "https://medicalxpress.com/news/2026-10-triple-action-weekly-weight-loss.html",
       "source": "Hacker News"
     }
   ]
