@@ -1,29 +1,29 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "top_stories": [
     {
-      "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
-      "url": "https://github.com/slee-persis/GVS5H",
+      "title": "US Wages Share of GDI at 75 Year Low",
+      "url": "https://fred.stlouisfed.org/series/W270RE1A156NBEA",
       "source": "Hacker News"
     },
     {
-      "title": "Xbox Turns Down Netflix $500M Offer",
-      "url": "https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/",
+      "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
+      "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
       "source": "Hacker News"
     },
     {
-      "title": "Attention people who think UB is fine",
-      "url": "https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html",
+      "title": "Tesla cancels Cybertruck in Australia and NZ after 7 years of deposits",
+      "url": "https://electrek.co/2026/10/23/tesla-cancels-cybertruck-australia-new-zealand/",
       "source": "Hacker News"
     },
     {
-      "title": "A CA key that was the number 4 passed its audit. Nobody was assigned to check it",
-      "url": "https://pilgrima.ge/p/someone-else-checked",
+      "title": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management",
+      "url": "https://proc-cli.com/",
       "source": "Hacker News"
     },
     {
-      "title": "Weight-loss drug reduces sleep apnea in two late-stage trials",
-      "url": "https://medicalxpress.com/news/2026-10-triple-action-weekly-weight-loss.html",
+      "title": "Show HN: UIPalooza – Do AI models have a recognizable design taste?",
+      "url": "https://uipalooza.ai/",
       "source": "Hacker News"
     }
   ]
