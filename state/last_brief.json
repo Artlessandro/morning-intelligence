@@ -1,29 +1,29 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "top_stories": [
     {
-      "title": "US Wages Share of GDI at 75 Year Low",
-      "url": "https://fred.stlouisfed.org/series/W270RE1A156NBEA",
+      "title": "There are now 5 inference providers for abliterated DeepSeek",
+      "url": "https://allmodels.io/llm/abliterated",
       "source": "Hacker News"
     },
     {
-      "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-      "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
+      "title": "UK to charge universities $1,200 per international student",
+      "url": "https://africa.businessinsider.com/local/markets/uk-to-charge-universities-dollar1200-per-international-student-including-those-from/qe5rqbe",
       "source": "Hacker News"
     },
     {
-      "title": "Tesla cancels Cybertruck in Australia and NZ after 7 years of deposits",
-      "url": "https://electrek.co/2026/10/23/tesla-cancels-cybertruck-australia-new-zealand/",
+      "title": "Writing about pratt parsing so I remember it",
+      "url": "https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management",
-      "url": "https://proc-cli.com/",
+      "title": "Anthropic's Disproof of the ETH",
+      "url": "https://hexagonmath.org/2610.00577v1",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: UIPalooza – Do AI models have a recognizable design taste?",
-      "url": "https://uipalooza.ai/",
+      "title": "Looking for a tech job is a helpless data-entry nightmare",
+      "url": "https://news.ycombinator.com/item?id=50254873",
       "source": "Hacker News"
     }
   ]
