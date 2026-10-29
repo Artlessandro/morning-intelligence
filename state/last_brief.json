@@ -1,29 +1,29 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "top_stories": [
     {
-      "title": "Artificial Analysis Intelligence Index v5.0",
-      "url": "https://artificialanalysis.ai/methodology/intelligence-benchmarking",
+      "title": "We Won't \"Just Hang Out\"",
+      "url": "https://borretti.me/article/we-wont-just-hang-out",
       "source": "Hacker News"
     },
     {
-      "title": "U.S. Defense Intelligence Agency Confirms China's Spaceplane",
-      "url": "https://www.twz.com/news-features/u-s-intel-confirms-this-is-chinas-secret-spaceplane",
+      "title": "Bernstein – open-source governance layer for AI agents",
+      "url": "https://bernstein.run",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: A Lego-like composable Framework for RSI",
-      "url": "https://rsi-gear.github.io/",
+      "title": "Show HN: Uji – Gentoo of Coding Agents",
+      "url": "https://github.com/uji-labs/uji",
       "source": "Hacker News"
     },
     {
-      "title": "Don't anthropomorphize big tech companies",
-      "url": "https://www.seangoedecke.com/dont-anthropomorphize-big-tech-companies/",
+      "title": "Getting good at AI takes time and practice",
+      "url": "https://www.seangoedecke.com/getting-good-at-ai-takes-time-and-practice/",
       "source": "Hacker News"
     },
     {
-      "title": "碁の国: Play Chess as Town Building",
-      "url": "https://gonokuni.plpl.town/",
+      "title": "Show HN: A malleable and formally verified Web engine",
+      "url": "https://news.ycombinator.com/item?id=50285197",
       "source": "Hacker News"
     }
   ]
