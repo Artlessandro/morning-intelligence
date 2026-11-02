@@ -1,29 +1,29 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "top_stories": [
     {
-      "title": "The AI cost of JavaScript frameworks",
-      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "title": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
+      "url": "https://wikihack.netlify.app",
       "source": "Hacker News"
     },
     {
-      "title": "Bastard",
-      "url": "https://bez-lightyear.bearblog.dev/bastard/",
+      "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+      "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
       "source": "Hacker News"
     },
     {
-      "title": "Pac-Man's Siren Call",
-      "url": "https://unsung.aresluna.org/pac-mans-siren-call/",
+      "title": "From Charlemagne to the Kitchen Boy: Reading the Hamburg Rathaus",
+      "url": "https://alsterrunde.com/from-charlemagne-to-the-kitchen-boy-reading-the-hamburg-rathaus/",
       "source": "Hacker News"
     },
     {
-      "title": "Model Aero Engines Free Manufacturable Plans/Blueprints",
-      "url": "https://outerzone.co.uk/plans.asp?cat=Engines",
+      "title": "The Smartest People in AI Believe This Is the Most Important Chart",
+      "url": "https://www.wsj.com/tech/ai/ai-anthropic-rsi-recursive-self-improvement-bff4e815",
       "source": "Hacker News"
     },
     {
-      "title": "If CA matched TX on property taxes, it would raise more than the billionaire tax",
-      "url": "https://fortune.com/2026/10/31/california-billionaire-wealth-tax-prop-40-revenue-prop-13-texas-taxes/",
+      "title": "Swedish grocery chain refrigerators and freezers hacked overnight",
+      "url": "https://news.ycombinator.com/item?id=50334210",
       "source": "Hacker News"
     }
   ]
