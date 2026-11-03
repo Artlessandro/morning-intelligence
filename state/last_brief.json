@@ -1,29 +1,29 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "top_stories": [
     {
-      "title": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
-      "url": "https://wikihack.netlify.app",
+      "title": "uBlock Origin filter to block autoplay videos in TechCrunch",
+      "url": "https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html",
       "source": "Hacker News"
     },
     {
-      "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
-      "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
+      "title": "Nvidia – open-source auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
       "source": "Hacker News"
     },
     {
-      "title": "From Charlemagne to the Kitchen Boy: Reading the Hamburg Rathaus",
-      "url": "https://alsterrunde.com/from-charlemagne-to-the-kitchen-boy-reading-the-hamburg-rathaus/",
+      "title": "Show HN: ReBirth 338 in Browser",
+      "url": "https://margeux.com/rb338.html",
       "source": "Hacker News"
     },
     {
-      "title": "The Smartest People in AI Believe This Is the Most Important Chart",
-      "url": "https://www.wsj.com/tech/ai/ai-anthropic-rsi-recursive-self-improvement-bff4e815",
+      "title": "CVE-2026-58115 – CVSS-B 10 CRITICAL – Siemens SIMATIC IoT2050 devices Node-RED",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-58115",
       "source": "Hacker News"
     },
     {
-      "title": "Swedish grocery chain refrigerators and freezers hacked overnight",
-      "url": "https://news.ycombinator.com/item?id=50334210",
+      "title": "Google patched a zero day I found and has not paid me",
+      "url": "https://github.com/jegly/jegly",
       "source": "Hacker News"
     }
   ]
