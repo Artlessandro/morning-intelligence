@@ -1,29 +1,29 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "top_stories": [
     {
-      "title": "uBlock Origin filter to block autoplay videos in TechCrunch",
-      "url": "https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html",
+      "title": "US midterm elections 2026 live updates: Democrats win Senate control and edge",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
       "source": "Hacker News"
     },
     {
-      "title": "Nvidia – open-source auto-ontology",
-      "url": "https://github.com/NVIDIA/auto-ontology",
+      "title": "Democrats Rout GOP",
+      "url": "https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: ReBirth 338 in Browser",
-      "url": "https://margeux.com/rb338.html",
+      "title": "Where Residential Proxy IPs Come From – AMA with Massive's CEO",
+      "url": "https://scrapeops.io/blog/where-residential-proxies-really-come-from/",
       "source": "Hacker News"
     },
     {
-      "title": "CVE-2026-58115 – CVSS-B 10 CRITICAL – Siemens SIMATIC IoT2050 devices Node-RED",
-      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-58115",
+      "title": "US midterm elections 2026: live results from Senate, House and governor races",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-elections-full-results-senate-house-governor-races",
       "source": "Hacker News"
     },
     {
-      "title": "Google patched a zero day I found and has not paid me",
-      "url": "https://github.com/jegly/jegly",
+      "title": "Democrats take control of US Congress as voters reject Trump's Republicans",
+      "url": "https://www.bbc.com/news/live/cj1dw0ydn595t",
       "source": "Hacker News"
     }
   ]
