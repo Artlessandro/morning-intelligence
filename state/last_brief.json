@@ -1,29 +1,29 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "top_stories": [
     {
-      "title": "Kirlian Photography: Building Your Own Equipment",
-      "url": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
+      "title": "Apple capped engineers at a $200 daily AI budget",
+      "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1",
       "source": "Hacker News"
     },
     {
-      "title": "My parents chose to die together and I was left to grieve alone",
-      "url": "https://www.bbc.com/news/articles/c81dwllzv113o",
+      "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
+      "url": "https://twitter.com/shanemelaugh/status/2119192075505893695",
       "source": "Hacker News"
     },
     {
-      "title": "70% of Brits say please or thank you when speaking to AI, some even apologize",
-      "url": "https://www.techradar.com/pro/70-percent-of-brits-say-please-or-thank-you-when-speaking-to-ai-and-some-even-apologize",
+      "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+      "url": "https://arxiv.org/abs/2610.14162",
       "source": "Hacker News"
     },
     {
-      "title": "Reddit User Detects Decrease in Thinking Blocks for Opus 5.5",
-      "url": "https://www.reddit.com/r/claude/comments/1xql02s/is_opus_55_nerfed/",
+      "title": "Being a meat proxy for AI should be grounds for getting people fired",
+      "url": "https://swiftrocks.com/being-a-meat-proxy-for-ai-should-be-grounds-for-getting-people-fired",
       "source": "Hacker News"
     },
     {
-      "title": "Modern LLMs have tiny GPTs hidden inside them",
-      "url": "https://invertedpassion.substack.com/p/modern-llms-have-tiny-gpts-hidden",
+      "title": "Github.com 504 Gateway Timeout due to surge in anonymous users",
+      "url": "https://www.githubstatus.com/incidents/c9px7cw2ghrs",
       "source": "Hacker News"
     }
   ]
