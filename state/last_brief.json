@@ -1,29 +1,29 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "top_stories": [
     {
-      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
-      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+      "title": "Firefox 160.0 Release Notes",
+      "url": "https://www.firefox.com/en-US/firefox/160.0/releasenotes/",
       "source": "Hacker News"
     },
     {
-      "title": "M John Harrison becomes first science fiction author to win the Booker prize",
-      "url": "https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize",
+      "title": "In Memoriam: Tim Peters 1952–2026",
+      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
       "source": "Hacker News"
     },
     {
-      "title": "Mathematicians Are Like Luddites",
-      "url": "https://alok.blog/luddite/",
+      "title": "Ukraine Pivots to Israeli-Italian Satellite Tech to Bypass Starlink Restrictions",
+      "url": "https://policy-wire.com/ukraine-pivots-to-israeli-italian-satellite-tech-to-bypass-starlink-restrictions/",
       "source": "Hacker News"
     },
     {
-      "title": "Fireworks AI security breach impacts Notion and their customers",
-      "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+      "title": "Formalizing the US Tax Code",
+      "url": "https://lexifina.com/blog/formalizing-the-us-tax-code",
       "source": "Hacker News"
     },
     {
-      "title": "Web Scraping in 2026: Six Insights from Pierluigi of the Web Scraping Club",
-      "url": "https://scrapeops.io/blog/web-scraping-insights-from-pierluigi-of-the-web-scraping-club/",
+      "title": "Compress any LLM 3x in one click, near-lossless, in under 50 MB RAM",
+      "url": "https://github.com/NeuraCryption/SPECTRA",
       "source": "Hacker News"
     }
   ]
