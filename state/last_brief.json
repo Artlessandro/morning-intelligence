@@ -1,29 +1,29 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "top_stories": [
     {
-      "title": "Show HN: Gawain – Require type hints on all Python variables",
-      "url": "https://github.com/matheuzgomes/gawain",
+      "title": "OpenTelemetry and AI Agents' Observability",
+      "url": "https://signoz.io/blog/opentelemetry-ai-agent-observability/",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
-      "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+      "title": "Show HN: Figma Like AI Landing Page Builder",
+      "url": "https://codecainehq.com/",
       "source": "Hacker News"
     },
     {
-      "title": "Kiri – The Modern Container Runtime",
-      "url": "https://runkiri.com/",
+      "title": "S3rg: Grep for object storage, written in Rust",
+      "url": "https://github.com/xiaofan-luan/s3rg",
       "source": "Hacker News"
     },
     {
-      "title": "B.C. arbitrator imposes first union contract for Amazon workers in North America",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/amazon-union-contract-b-c-first-north-america-9.7421834",
+      "title": "Men and Women Are Diverging Ideologically",
+      "url": "https://www.city-journal.org/article/men-women-political-divide",
       "source": "Hacker News"
     },
     {
-      "title": "Disk encryption on NetBSD – achieving secrecy",
-      "url": "https://netbsd.org/~nia/disk-encrypt/",
+      "title": "Elon Musk joins 165,000 others call for Nvidia to bring back Jensen Huang",
+      "url": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
       "source": "Hacker News"
     }
   ]
