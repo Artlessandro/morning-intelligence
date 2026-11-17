@@ -1,29 +1,29 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "top_stories": [
     {
-      "title": "OpenTelemetry and AI Agents' Observability",
-      "url": "https://signoz.io/blog/opentelemetry-ai-agent-observability/",
+      "title": "Joint Statement from Department of Commerce and DOJ on Megaspeed Investigation",
+      "url": "https://www.commerce.gov/news/press-releases/2026/11/joint-statement-department-commerce-and-department-justice-megaspeed",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: Figma Like AI Landing Page Builder",
-      "url": "https://codecainehq.com/",
+      "title": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
+      "url": "https://www.theguardian.com/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea",
       "source": "Hacker News"
     },
     {
-      "title": "S3rg: Grep for object storage, written in Rust",
-      "url": "https://github.com/xiaofan-luan/s3rg",
+      "title": "OVH announces Olala mini 7A1B",
+      "url": "https://corporate.ovhcloud.com/en-ie/newsroom/news/ovh-olala-mini/",
       "source": "Hacker News"
     },
     {
-      "title": "Men and Women Are Diverging Ideologically",
-      "url": "https://www.city-journal.org/article/men-women-political-divide",
+      "title": "Chris van Eijk: invalid input syntax for type JSON in PostgreSQL, measured",
+      "url": "https://now-next.nl/en/insights/postgresql-invalid-input-syntax-for-type-json/",
       "source": "Hacker News"
     },
     {
-      "title": "Elon Musk joins 165,000 others call for Nvidia to bring back Jensen Huang",
-      "url": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
+      "title": "Ask HN: What was your weirdest or funniest job rejection?",
+      "url": "https://news.ycombinator.com/item?id=50528707",
       "source": "Hacker News"
     }
   ]
