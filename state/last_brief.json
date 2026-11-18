@@ -1,29 +1,29 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "top_stories": [
     {
-      "title": "Joint Statement from Department of Commerce and DOJ on Megaspeed Investigation",
-      "url": "https://www.commerce.gov/news/press-releases/2026/11/joint-statement-department-commerce-and-department-justice-megaspeed",
+      "title": "Talos Linux",
+      "url": "https://www.siderolabs.com/talos-linux",
       "source": "Hacker News"
     },
     {
-      "title": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
-      "url": "https://www.theguardian.com/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea",
+      "title": "Codeberg is down due to a domain issue",
+      "url": "https://social.anoxinon.de/@Codeberg/117636454915265360",
       "source": "Hacker News"
     },
     {
-      "title": "OVH announces Olala mini 7A1B",
-      "url": "https://corporate.ovhcloud.com/en-ie/newsroom/news/ovh-olala-mini/",
+      "title": "Torrent Infra Needs to Modernize Immediately for Open Models to Survive",
+      "url": "https://pirateface.co/articles/pirate-face-cli",
       "source": "Hacker News"
     },
     {
-      "title": "Chris van Eijk: invalid input syntax for type JSON in PostgreSQL, measured",
-      "url": "https://now-next.nl/en/insights/postgresql-invalid-input-syntax-for-type-json/",
+      "title": "Alaska Senate race called: Democrats win",
+      "url": "https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html",
       "source": "Hacker News"
     },
     {
-      "title": "Ask HN: What was your weirdest or funniest job rejection?",
-      "url": "https://news.ycombinator.com/item?id=50528707",
+      "title": "Firefox opens hotline for users sick of Microsoft shoving Edge down their throat",
+      "url": "https://www.neowin.net/news/firefox-opens-hotline-for-windows-users-fed-up-with-microsoft-shoving-edge-down-their-throat/",
       "source": "Hacker News"
     }
   ]
