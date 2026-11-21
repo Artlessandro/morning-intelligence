@@ -1,29 +1,29 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "top_stories": [
     {
-      "title": "We made GTA 6, world's biggest game – we should have working conditions to match",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/18/gta-6-grand-theft-auto-vi-rockstar-employees-union-recognition",
+      "title": "ClawDOS – An AI coding agent for DOS",
+      "url": "http://ricapar.net/ClawDOS/",
       "source": "Hacker News"
     },
     {
-      "title": "We built an internal coding agent. Now 80% of the company uses it",
-      "url": "https://medium.com/alan/hopper-we-built-an-internal-coding-agent-now-80-of-alan-uses-it-9c11e5b62ca5",
+      "title": "Surprisingly Adorable Insect Portraits",
+      "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
       "source": "Hacker News"
     },
     {
-      "title": "China's 19-passenger electric aircraft completes first crewed flight",
-      "url": "https://thedriven.io/2026/11/20/chinas-19-passenger-electric-aircraft-completes-first-crewed-flight/",
+      "title": "Don't Play Anthropic's Game",
+      "url": "https://www.nytimes.com/2026/11/19/opinion/anthropic-ipo-ai-regulation.html",
       "source": "Hacker News"
     },
     {
-      "title": "An OpenEverest MySQL Cluster: Galera Health and a Live Failover Test",
-      "url": "https://www.percona.com/blog/inside-an-openeverest-mysql-cluster-galera-health-and-a-live-failover-test/",
+      "title": "Ask HN: Rust, Zig, or C?",
+      "url": "https://news.ycombinator.com/item?id=50586653",
       "source": "Hacker News"
     },
     {
-      "title": "A TPM that BitLocker trusts, on Apple's Virtualization framework",
-      "url": "https://scaleninja.com/blog/bitlocker-tpm-virtualization-framework/",
+      "title": "HTTP/1.1 Must Die",
+      "url": "https://http1mustdie.com/",
       "source": "Hacker News"
     }
   ]
