@@ -1,29 +1,29 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "top_stories": [
     {
-      "title": "ClawDOS – An AI coding agent for DOS",
-      "url": "http://ricapar.net/ClawDOS/",
+      "title": "The Engineering Manager's role is under attack (again)",
+      "url": "https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again",
       "source": "Hacker News"
     },
     {
-      "title": "Surprisingly Adorable Insect Portraits",
-      "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
+      "title": "Show HN: The Riemann Proof Handbook",
+      "url": "https://github.com/tamnd/riemann-handbook",
       "source": "Hacker News"
     },
     {
-      "title": "Don't Play Anthropic's Game",
-      "url": "https://www.nytimes.com/2026/11/19/opinion/anthropic-ipo-ai-regulation.html",
+      "title": "Notes on the discrete Fourier transform (DFT)",
+      "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
       "source": "Hacker News"
     },
     {
-      "title": "Ask HN: Rust, Zig, or C?",
-      "url": "https://news.ycombinator.com/item?id=50586653",
+      "title": "Man Claiming to Be Fired Rockstar Engineer Says GTA 6 Is Tracking Behavior",
+      "url": "https://www.gadgetreview.com/man-claiming-to-be-fired-rockstar-engineer-says-gta-6-is-secretly-tracking-player-behavior-and-reporting-it-to-take-two",
       "source": "Hacker News"
     },
     {
-      "title": "HTTP/1.1 Must Die",
-      "url": "https://http1mustdie.com/",
+      "title": "OpenRouter requests to MiniMax models may have been read",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1y1we95/openrouter_requests_to_minimax_models_may_have/",
       "source": "Hacker News"
     }
   ]
