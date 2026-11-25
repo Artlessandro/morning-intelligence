@@ -1,29 +1,29 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "top_stories": [
     {
-      "title": "Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang",
-      "url": "https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/",
+      "title": "Why Automated Proof-Solving Is the Same Old Dead End",
+      "url": "https://arxiv.org/abs/2611.31286",
       "source": "Hacker News"
     },
     {
-      "title": "Google Chrome dev team declares bug report bankruptcy",
-      "url": "https://blog.plover.com/2026/11/18/#bug-reports",
+      "title": "Linus Torvalds: \"Tell Your AI Companion to Get Its Act Together\"",
+      "url": "https://www.phoronix.com/news/Linus-Torvalds-EXT4-AI-Big",
       "source": "Hacker News"
     },
     {
-      "title": "Worshipping at the Altar of Brendan Gregg",
-      "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
+      "title": "Cgo's pointer check is all over the place",
+      "url": "https://theconsensus.dev/p/2026/11/15/cgos-pointer-check.html",
       "source": "Hacker News"
     },
     {
-      "title": "Just a Few Bugs",
-      "url": "https://www.justafewbugs.xyz/",
+      "title": "SoftBank market value halves from peak as AI fears grow",
+      "url": "https://www.japantimes.co.jp/business/2026/10/22/companies/softbank-market-value-halves/",
       "source": "Hacker News"
     },
     {
-      "title": "Why are so many services using email magic links for login?",
-      "url": "https://news.ycombinator.com/item?id=50625996",
+      "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
+      "url": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
       "source": "Hacker News"
     }
   ]
