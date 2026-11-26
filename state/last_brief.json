@@ -1,29 +1,29 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "top_stories": [
     {
-      "title": "Why Automated Proof-Solving Is the Same Old Dead End",
-      "url": "https://arxiv.org/abs/2611.31286",
+      "title": "Show HN: Anthropic and OpenAI Math Tracker",
+      "url": "https://bedolpab.github.io/antoai-math/",
       "source": "Hacker News"
     },
     {
-      "title": "Linus Torvalds: \"Tell Your AI Companion to Get Its Act Together\"",
-      "url": "https://www.phoronix.com/news/Linus-Torvalds-EXT4-AI-Big",
+      "title": "Every child in America will receive two SpaceX shares",
+      "url": "https://twitter.com/elonmusk/status/2125797463047258119",
       "source": "Hacker News"
     },
     {
-      "title": "Cgo's pointer check is all over the place",
-      "url": "https://theconsensus.dev/p/2026/11/15/cgos-pointer-check.html",
+      "title": "Dev Is Prod",
+      "url": "https://arjun.is/posts/2026/dev-is-prod/",
       "source": "Hacker News"
     },
     {
-      "title": "SoftBank market value halves from peak as AI fears grow",
-      "url": "https://www.japantimes.co.jp/business/2026/10/22/companies/softbank-market-value-halves/",
+      "title": "Native Computational Graph Engine",
+      "url": "https://github.com/krypticlogan/zig-graph-compiler",
       "source": "Hacker News"
     },
     {
-      "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
-      "url": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
+      "title": "Poundland collapses putting 11,000 jobs at risk",
+      "url": "https://www.bbc.com/news/articles/cm3vgdn037z4o",
       "source": "Hacker News"
     }
   ]
