@@ -1,29 +1,29 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "top_stories": [
     {
-      "title": "Show HN: Anthropic and OpenAI Math Tracker",
-      "url": "https://bedolpab.github.io/antoai-math/",
+      "title": "Claude sabotaging SOTA ML research tasks",
+      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
       "source": "Hacker News"
     },
     {
-      "title": "Every child in America will receive two SpaceX shares",
-      "url": "https://twitter.com/elonmusk/status/2125797463047258119",
+      "title": "Muxlio: Durable workflow orchestration for AI agents and tools",
+      "url": "https://muxlio.github.io/muxlio/",
       "source": "Hacker News"
     },
     {
-      "title": "Dev Is Prod",
-      "url": "https://arjun.is/posts/2026/dev-is-prod/",
+      "title": "'Cyber incident' forces UK Gov to take some services offline",
+      "url": "https://www.bbc.co.uk/news/live/c6rrg94lgjrjt",
       "source": "Hacker News"
     },
     {
-      "title": "Native Computational Graph Engine",
-      "url": "https://github.com/krypticlogan/zig-graph-compiler",
+      "title": "Show HN: Europe Instead – find the European version of the tools you use",
+      "url": "https://europeinstead.com",
       "source": "Hacker News"
     },
     {
-      "title": "Poundland collapses putting 11,000 jobs at risk",
-      "url": "https://www.bbc.com/news/articles/cm3vgdn037z4o",
+      "title": "Show HN: Pure-Python Docx to PDF Converter, No Word or LibreOffice Needed",
+      "url": "https://github.com/rahulkhairnarr/docx-to-pdf-converter",
       "source": "Hacker News"
     }
   ]
