@@ -1,29 +1,29 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "top_stories": [
     {
-      "title": "Claude sabotaging SOTA ML research tasks",
-      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+      "title": "Goodbye, World: The End of Programmers",
+      "url": "https://www.wired.com/story/goodbye-world-the-end-of-programmers/",
       "source": "Hacker News"
     },
     {
-      "title": "Muxlio: Durable workflow orchestration for AI agents and tools",
-      "url": "https://muxlio.github.io/muxlio/",
+      "title": "It's never been more exhausting to buy stuff",
+      "url": "https://www.theatlantic.com/technology/2026/08/online-shopping-inescapable/688254/",
       "source": "Hacker News"
     },
     {
-      "title": "'Cyber incident' forces UK Gov to take some services offline",
-      "url": "https://www.bbc.co.uk/news/live/c6rrg94lgjrjt",
+      "title": "AI labs sitting on 'bombshell' revelations, experts warn",
+      "url": "https://www.theguardian.com/technology/2026/nov/28/ai-artificial-intelligence-encryption-global-chaos",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: Europe Instead – find the European version of the tools you use",
-      "url": "https://europeinstead.com",
+      "title": "FastLanes: Next-gen File Format [pdf]",
+      "url": "https://research.vu.nl/files/447013431/afroozehphdthesis%20-%2069280d90f0bfd.pdf",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: Pure-Python Docx to PDF Converter, No Word or LibreOffice Needed",
-      "url": "https://github.com/rahulkhairnarr/docx-to-pdf-converter",
+      "title": "Women report bleeding and miscarriages after teargas by French police",
+      "url": "https://www.theguardian.com/global-development/2026/nov/27/thousands-of-girls-and-women-report-bleeding-and-miscarriages-after-french-police-use-of-teargas",
       "source": "Hacker News"
     }
   ]
